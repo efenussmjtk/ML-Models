@@ -1,0 +1,1488 @@
+[
+    {
+      "text": "Find a restaurant in Uluwatu",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Uluwatu"
+      }
+    },
+    {
+      "text": "Fine dining restaurants in Uluwatu",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Uluwatu"
+      }
+    },
+    {
+      "text": "Cheap eats in Uluwatu",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Uluwatu"
+      }
+    },
+    {
+      "text": "Family-friendly restaurants in Uluwatu",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Uluwatu"
+      }
+    },
+    {
+      "text": "Restaurants near Uluwatu Temple",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Uluwatu Temple"
+      }
+    },
+    {
+      "text": "Restaurants with a view in Uluwatu",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Uluwatu"
+      }
+    },
+    {
+      "text": "Vegan restaurants in Uluwatu",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Uluwatu"
+      }
+    },
+    {
+      "text": "Seafood restaurants in Uluwatu",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Uluwatu"
+      }
+    },
+    {
+      "text": "Romantic restaurants in Uluwatu",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Uluwatu"
+      }
+    },
+    {
+      "text": "Local cuisine restaurants in Uluwatu",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Uluwatu"
+      }
+    },
+    {
+      "text": "Restaurants near Padang Padang Beach in Uluwatu",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Padang Padang Beach"
+      }
+    },
+    {
+      "text": "Breakfast spots in Uluwatu",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Uluwatu"
+      }
+    },
+    {
+      "text": "Find a restaurant in Ungasan",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Ungasan"
+      }
+    },
+    {
+      "text": "Fine dining restaurants in Ungasan",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Ungasan"
+      }
+    },
+    {
+      "text": "Cheap eats in Ungasan",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Ungasan"
+      }
+    },
+    {
+      "text": "Family-friendly restaurants in Ungasan",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Ungasan"
+      }
+    },
+    {
+      "text": "Restaurants near Garuda Wisnu Kencana in Ungasan",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Garuda Wisnu Kencana"
+      }
+    },
+    {
+      "text": "Restaurants with a view in Ungasan",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Ungasan"
+      }
+    },
+    {
+      "text": "Vegan restaurants in Ungasan",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Ungasan"
+      }
+    },
+    {
+      "text": "Seafood restaurants in Ungasan",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Ungasan"
+      }
+    },
+    {
+      "text": "Romantic restaurants in Ungasan",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Ungasan"
+      }
+    },
+    {
+      "text": "Local cuisine restaurants in Ungasan",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Ungasan"
+      }
+    },
+    {
+      "text": "Restaurants near Melasti Beach in Ungasan",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Melasti Beach"
+      }
+    },
+    {
+      "text": "Breakfast spots in Ungasan",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Ungasan"
+      }
+    },
+    {
+      "text": "Find a restaurant in Nusa Dua",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Nusa Dua"
+      }
+    },
+    {
+      "text": "Fine dining restaurants in Nusa Dua",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Nusa Dua"
+      }
+    },
+    {
+      "text": "Cheap eats in Nusa Dua",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Nusa Dua"
+      }
+    },
+    {
+      "text": "Family-friendly restaurants in Nusa Dua",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Nusa Dua"
+      }
+    },
+    {
+      "text": "Restaurants near Nusa Dua Beach",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Nusa Dua Beach"
+      }
+    },
+    {
+      "text": "Restaurants with a view in Nusa Dua",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Nusa Dua"
+      }
+    },
+    {
+      "text": "Vegan restaurants in Nusa Dua",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Nusa Dua"
+      }
+    },
+    {
+      "text": "Seafood restaurants in Nusa Dua",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Nusa Dua"
+      }
+    },
+    {
+      "text": "Romantic restaurants in Nusa Dua",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Nusa Dua"
+      }
+    },
+    {
+      "text": "Local cuisine restaurants in Nusa Dua",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Nusa Dua"
+      }
+    },
+    {
+      "text": "Restaurants near Bali Collection in Nusa Dua",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Bali Collection"
+      }
+    },
+    {
+      "text": "Breakfast spots in Nusa Dua",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Nusa Dua"
+      }
+    },
+    {
+      "text": "Find a restaurant in Benoa",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Benoa"
+      }
+    },
+    {
+      "text": "Fine dining restaurants in Benoa",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Benoa"
+      }
+    },
+    {
+      "text": "Cheap eats in Benoa",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Benoa"
+      }
+    },
+    {
+      "text": "Family-friendly restaurants in Benoa",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Benoa"
+      }
+    },
+    {
+      "text": "Restaurants near Benoa Harbour",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Benoa Harbour"
+      }
+    },
+    {
+      "text": "Restaurants with a view in Benoa",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Benoa"
+      }
+    },
+    {
+      "text": "Vegan restaurants in Benoa",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Benoa"
+      }
+    },
+    {
+      "text": "Seafood restaurants in Benoa",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Benoa"
+      }
+    },
+    {
+      "text": "Romantic restaurants in Benoa",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Benoa"
+      }
+    },
+    {
+      "text": "Local cuisine restaurants in Benoa",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Benoa"
+      }
+    },
+    {
+      "text": "Restaurants near Tanjung Benoa Beach in Benoa",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Tanjung Benoa Beach"
+      }
+    },
+    {
+      "text": "Breakfast spots in Benoa",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Benoa"
+      }
+    },
+    {
+      "text": "Find a restaurant in Jimbaran",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Jimbaran"
+      }
+    },
+    {
+      "text": "Fine dining restaurants in Jimbaran",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Jimbaran"
+      }
+    },
+    {
+      "text": "Cheap eats in Jimbaran",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Jimbaran"
+      }
+    },
+    {
+      "text": "Family-friendly restaurants in Jimbaran",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Jimbaran"
+      }
+    },
+    {
+      "text": "Restaurants near Jimbaran Beach",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Jimbaran Beach"
+      }
+    },
+    {
+      "text": "Restaurants with a view in Jimbaran",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Jimbaran"
+      }
+    },
+    {
+      "text": "Vegan restaurants in Jimbaran",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Jimbaran"
+      }
+    },
+    {
+      "text": "Seafood restaurants in Jimbaran",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Jimbaran"
+      }
+    },
+    {
+      "text": "Romantic restaurants in Jimbaran",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Jimbaran"
+      }
+    },
+    {
+      "text": "Local cuisine restaurants in Jimbaran",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Jimbaran"
+      }
+    },
+    {
+      "text": "Restaurants near seafood restaurants in Jimbaran",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Jimbaran"
+      }
+    },
+    {
+      "text": "Breakfast spots in Jimbaran",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Jimbaran"
+      }
+    },
+    {
+      "text": "Find a restaurant in Tuban",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Tuban"
+      }
+    },
+    {
+      "text": "Fine dining restaurants in Tuban",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Tuban"
+      }
+    },
+    {
+      "text": "Cheap eats in Tuban",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Tuban"
+      }
+    },
+    {
+      "text": "Family-friendly restaurants in Tuban",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Tuban"
+      }
+    },
+    {
+      "text": "Restaurants near Tuban Beach",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Tuban Beach"
+      }
+    },
+    {
+      "text": "Restaurants with a view in Tuban",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Tuban"
+      }
+    },
+    {
+      "text": "Vegan restaurants in Tuban",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Tuban"
+      }
+    },
+    {
+      "text": "Seafood restaurants in Tuban",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Tuban"
+      }
+    },
+    {
+      "text": "Romantic restaurants in Tuban",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Tuban"
+      }
+    },
+    {
+      "text": "Local cuisine restaurants in Tuban",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Tuban"
+      }
+    },
+    {
+      "text": "Restaurants near Waterbom Bali in Tuban",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Waterbom Bali"
+      }
+    },
+    {
+      "text": "Breakfast spots in Tuban",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Tuban"
+      }
+    },
+    {
+      "text": "Find a restaurant in Kuta",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Kuta"
+      }
+    },
+    {
+      "text": "Fine dining restaurants in Kuta",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Kuta"
+      }
+    },
+    {
+      "text": "Cheap eats in Kuta",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Kuta"
+      }
+    },
+    {
+      "text": "Family-friendly restaurants in Kuta",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Kuta"
+      }
+    },
+    {
+      "text": "Restaurants near Kuta Beach",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Kuta Beach"
+      }
+    },
+    {
+      "text": "Restaurants with a view in Kuta",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Kuta"
+      }
+    },
+    {
+      "text": "Vegan restaurants in Kuta",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Kuta"
+      }
+    },
+    {
+      "text": "Seafood restaurants in Kuta",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Kuta"
+      }
+    },
+    {
+      "text": "Romantic restaurants in Kuta",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Kuta"
+      }
+    },
+    {
+      "text": "Local cuisine restaurants in Kuta",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Kuta"
+      }
+    },
+    {
+      "text": "Restaurants near nightlife in Kuta",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Kuta"
+      }
+    },
+    {
+      "text": "Breakfast spots in Kuta",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Kuta"
+      }
+    },
+    {
+      "text": "Find a restaurant in Legian",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Legian"
+      }
+    },
+    {
+      "text": "Fine dining restaurants in Legian",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Legian"
+      }
+    },
+    {
+      "text": "Cheap eats in Legian",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Legian"
+      }
+    },
+    {
+      "text": "Family-friendly restaurants in Legian",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Legian"
+      }
+    },
+    {
+      "text": "Restaurants near Legian Beach",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Legian Beach"
+      }
+    },
+    {
+      "text": "Restaurants with a view in Legian",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Legian"
+      }
+    },
+    {
+      "text": "Vegan restaurants in Legian",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Legian"
+      }
+    },
+    {
+      "text": "Seafood restaurants in Legian",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Legian"
+      }
+    },
+    {
+      "text": "Romantic restaurants in Legian",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Legian"
+      }
+    },
+    {
+      "text": "Local cuisine restaurants in Legian",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Legian"
+      }
+    },
+    {
+      "text": "Restaurants near Double Six Beach in Legian",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Double Six Beach"
+      }
+    },
+    {
+      "text": "Breakfast spots in Legian",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Legian"
+      }
+    },
+    {
+      "text": "Find a restaurant in Seminyak",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Seminyak"
+      }
+    },
+    {
+      "text": "Fine dining restaurants in Seminyak",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Seminyak"
+      }
+    },
+    {
+      "text": "Cheap eats in Seminyak",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Seminyak"
+      }
+    },
+    {
+      "text": "Family-friendly restaurants in Seminyak",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Seminyak"
+      }
+    },
+    {
+      "text": "Restaurants near Seminyak Beach",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Seminyak Beach"
+      }
+    },
+    {
+      "text": "Restaurants with a view in Seminyak",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Seminyak"
+      }
+    },
+    {
+      "text": "Vegan restaurants in Seminyak",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Seminyak"
+      }
+    },
+    {
+      "text": "Seafood restaurants in Seminyak",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Seminyak"
+      }
+    },
+    {
+      "text": "Romantic restaurants in Seminyak",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Seminyak"
+      }
+    },
+    {
+      "text": "Local cuisine restaurants in Seminyak",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Seminyak"
+      }
+    },
+    {
+      "text": "Restaurants near Ku De Ta in Seminyak",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Ku De Ta"
+      }
+    },
+    {
+      "text": "Breakfast spots in Seminyak",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Seminyak"
+      }
+    },
+    {
+      "text": "Find a restaurant in Kerobokan",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Kerobokan"
+      }
+    },
+    {
+      "text": "Fine dining restaurants in Kerobokan",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Kerobokan"
+      }
+    },
+    {
+      "text": "Cheap eats in Kerobokan",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Kerobokan"
+      }
+    },
+    {
+      "text": "Family-friendly restaurants in Kerobokan",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Kerobokan"
+      }
+    },
+    {
+      "text": "Restaurants near Seminyak in Kerobokan",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Seminyak"
+      }
+    },
+    {
+      "text": "Restaurants with a view in Kerobokan",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Kerobokan"
+      }
+    },
+    {
+      "text": "Vegan restaurants in Kerobokan",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Kerobokan"
+      }
+    },
+    {
+      "text": "Seafood restaurants in Kerobokan",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Kerobokan"
+      }
+    },
+    {
+      "text": "Romantic restaurants in Kerobokan",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Kerobokan"
+      }
+    },
+    {
+      "text": "Local cuisine restaurants in Kerobokan",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Kerobokan"
+      }
+    },
+    {
+      "text": "Restaurants near Batu Belig Beach in Kerobokan",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Batu Belig Beach"
+      }
+    },
+    {
+      "text": "Breakfast spots in Kerobokan",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Kerobokan"
+      }
+    },
+    {
+      "text": "Find a restaurant in Canggu",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Canggu"
+      }
+    },
+    {
+      "text": "Fine dining restaurants in Canggu",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Canggu"
+      }
+    },
+    {
+      "text": "Cheap eats in Canggu",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Canggu"
+      }
+    },
+    {
+      "text": "Family-friendly restaurants in Canggu",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Canggu"
+      }
+    },
+    {
+      "text": "Restaurants near Echo Beach in Canggu",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Echo Beach"
+      }
+    },
+    {
+      "text": "Restaurants with a view in Canggu",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Canggu"
+      }
+    },
+    {
+      "text": "Vegan restaurants in Canggu",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Canggu"
+      }
+    },
+    {
+      "text": "Seafood restaurants in Canggu",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Canggu"
+      }
+    },
+    {
+      "text": "Romantic restaurants in Canggu",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Canggu"
+      }
+    },
+    {
+      "text": "Local cuisine restaurants in Canggu",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Canggu"
+      }
+    },
+    {
+      "text": "Restaurants near Batu Bolong Beach in Canggu",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Batu Bolong Beach"
+      }
+    },
+    {
+      "text": "Breakfast spots in Canggu",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Canggu"
+      }
+    },
+    {
+      "text": "Find a restaurant in Tanah Lot",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Tanah Lot"
+      }
+    },
+    {
+      "text": "Fine dining restaurants in Tanah Lot",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Tanah Lot"
+      }
+    },
+    {
+      "text": "Cheap eats in Tanah Lot",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Tanah Lot"
+      }
+    },
+    {
+      "text": "Family-friendly restaurants in Tanah Lot",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Tanah Lot"
+      }
+    },
+    {
+      "text": "Restaurants near Tanah Lot Temple",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Tanah Lot Temple"
+      }
+    },
+    {
+      "text": "Restaurants with a view in Tanah Lot",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Tanah Lot"
+      }
+    },
+    {
+      "text": "Vegan restaurants in Tanah Lot",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Tanah Lot"
+      }
+    },
+    {
+      "text": "Seafood restaurants in Tanah Lot",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Tanah Lot"
+      }
+    },
+    {
+      "text": "Romantic restaurants in Tanah Lot",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Tanah Lot"
+      }
+    },
+    {
+      "text": "Local cuisine restaurants in Tanah Lot",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Tanah Lot"
+      }
+    },
+    {
+      "text": "Restaurants near Nirwana Bali Golf Club in Tanah Lot",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Nirwana Bali Golf Club"
+      }
+    },
+    {
+      "text": "Breakfast spots in Tanah Lot",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Tanah Lot"
+      }
+    },
+    {
+      "text": "Find a restaurant in Ubud",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Ubud"
+      }
+    },
+    {
+      "text": "Fine dining restaurants in Ubud",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Ubud"
+      }
+    },
+    {
+      "text": "Cheap eats in Ubud",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Ubud"
+      }
+    },
+    {
+      "text": "Family-friendly restaurants in Ubud",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Ubud"
+      }
+    },
+    {
+      "text": "Restaurants near Ubud Monkey Forest",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Ubud Monkey Forest"
+      }
+    },
+    {
+      "text": "Restaurants with a view in Ubud",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Ubud"
+      }
+    },
+    {
+      "text": "Vegan restaurants in Ubud",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Ubud"
+      }
+    },
+    {
+      "text": "Seafood restaurants in Ubud",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Ubud"
+      }
+    },
+    {
+      "text": "Romantic restaurants in Ubud",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Ubud"
+      }
+    },
+    {
+      "text": "Local cuisine restaurants in Ubud",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Ubud"
+      }
+    },
+    {
+      "text": "Restaurants near Tegallalang Rice Terrace in Ubud",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Tegallalang Rice Terrace"
+      }
+    },
+    {
+      "text": "Breakfast spots in Ubud",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Ubud"
+      }
+    },
+    {
+      "text": "Find a restaurant in Padangbai",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Padangbai"
+      }
+    },
+    {
+      "text": "Fine dining restaurants in Padangbai",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Padangbai"
+      }
+    },
+    {
+      "text": "Cheap eats in Padangbai",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Padangbai"
+      }
+    },
+    {
+      "text": "Family-friendly restaurants in Padangbai",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Padangbai"
+      }
+    },
+    {
+      "text": "Restaurants near Blue Lagoon Beach",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Blue Lagoon Beach"
+      }
+    },
+    {
+      "text": "Restaurants with a view in Padangbai",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Padangbai"
+      }
+    },
+    {
+      "text": "Vegan restaurants in Padangbai",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Padangbai"
+      }
+    },
+    {
+      "text": "Seafood restaurants in Padangbai",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Padangbai"
+      }
+    },
+    {
+      "text": "Romantic restaurants in Padangbai",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Padangbai"
+      }
+    },
+    {
+      "text": "Local cuisine restaurants in Padangbai",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Padangbai"
+      }
+    },
+    {
+      "text": "Restaurants near Padangbai Pier in Padangbai",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Padangbai Pier"
+      }
+    },
+    {
+      "text": "Breakfast spots in Padangbai",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Padangbai"
+      }
+    },
+    {
+      "text": "Find a restaurant in Amed",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Amed"
+      }
+    },
+    {
+      "text": "Fine dining restaurants in Amed",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Amed"
+      }
+    },
+    {
+      "text": "Cheap eats in Amed",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Amed"
+      }
+    },
+    {
+      "text": "Family-friendly restaurants in Amed",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Amed"
+      }
+    },
+    {
+      "text": "Restaurants near Amed Beach",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Amed Beach"
+      }
+    },
+    {
+      "text": "Restaurants with a view in Amed",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Amed"
+      }
+    },
+    {
+      "text": "Vegan restaurants in Amed",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Amed"
+      }
+    },
+    {
+      "text": "Seafood restaurants in Amed",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Amed"
+      }
+    },
+    {
+      "text": "Romantic restaurants in Amed",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Amed"
+      }
+    },
+    {
+      "text": "Local cuisine restaurants in Amed",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Amed"
+      }
+    },
+    {
+      "text": "Restaurants near Jemeluk Bay in Amed",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Jemeluk Bay"
+      }
+    },
+    {
+      "text": "Breakfast spots in Amed",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Amed"
+      }
+    },
+    {
+      "text": "Find a restaurant in Tulamben",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Tulamben"
+      }
+    },
+    {
+      "text": "Fine dining restaurants in Tulamben",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Tulamben"
+      }
+    },
+    {
+      "text": "Cheap eats in Tulamben",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Tulamben"
+      }
+    },
+    {
+      "text": "Family-friendly restaurants in Tulamben",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Tulamben"
+      }
+    },
+    {
+      "text": "Restaurants near USS Liberty Shipwreck",
+      "intent": "FindRestaurant",
+      "entities": {
+        "LOCATION": "Tulamben"
+      }
+    },
+    {
+        "text": "Local cuisine restaurants in Singaraja",
+        "intent": "FindRestaurant",
+        "entities": {
+          "LOCATION": "Singaraja"
+        }
+      },
+      {
+        "text": "Restaurants near Banjar Hot Springs in Singaraja",
+        "intent": "FindRestaurant",
+        "entities": {
+          "LOCATION": "Banjar Hot Springs"
+        }
+      },
+      {
+        "text": "Breakfast spots in Singaraja",
+        "intent": "FindRestaurant",
+        "entities": {
+          "LOCATION": "Singaraja"
+        }
+      },
+      {
+        "text": "Find a restaurant in Lovina",
+        "intent": "FindRestaurant",
+        "entities": {
+          "LOCATION": "Lovina"
+        }
+      },
+      {
+        "text": "Fine dining restaurants in Lovina",
+        "intent": "FindRestaurant",
+        "entities": {
+          "LOCATION": "Lovina"
+        }
+      },
+      {
+        "text": "Cheap eats in Lovina",
+        "intent": "FindRestaurant",
+        "entities": {
+          "LOCATION": "Lovina"
+        }
+      },
+      {
+        "text": "Family-friendly restaurants in Lovina",
+        "intent": "FindRestaurant",
+        "entities": {
+          "LOCATION": "Lovina"
+        }
+      },
+      {
+        "text": "Restaurants near Lovina Beach",
+        "intent": "FindRestaurant",
+        "entities": {
+          "LOCATION": "Lovina Beach"
+        }
+      },
+      {
+        "text": "Restaurants with a view in Lovina",
+        "intent": "FindRestaurant",
+        "entities": {
+          "LOCATION": "Lovina"
+        }
+      },
+      {
+        "text": "Vegan restaurants in Lovina",
+        "intent": "FindRestaurant",
+        "entities": {
+          "LOCATION": "Lovina"
+        }
+      },
+      {
+        "text": "Seafood restaurants in Lovina",
+        "intent": "FindRestaurant",
+        "entities": {
+          "LOCATION": "Lovina"
+        }
+      },
+      {
+        "text": "Romantic restaurants in Lovina",
+        "intent": "FindRestaurant",
+        "entities": {
+          "LOCATION": "Lovina"
+        }
+      },
+      {
+        "text": "Local cuisine restaurants in Lovina",
+        "intent": "FindRestaurant",
+        "entities": {
+          "LOCATION": "Lovina"
+        }
+      },
+      {
+        "text": "Restaurants near Banjar Hot Springs in Lovina",
+        "intent": "FindRestaurant",
+        "entities": {
+          "LOCATION": "Banjar Hot Springs"
+        }
+      },
+      {
+        "text": "Breakfast spots in Lovina",
+        "intent": "FindRestaurant",
+        "entities": {
+          "LOCATION": "Lovina"
+        }
+      },
+      {
+        "text": "Find a restaurant in Pemuteran",
+        "intent": "FindRestaurant",
+        "entities": {
+          "LOCATION": "Pemuteran"
+        }
+      },
+      {
+        "text": "Fine dining restaurants in Pemuteran",
+        "intent": "FindRestaurant",
+        "entities": {
+          "LOCATION": "Pemuteran"
+        }
+      },
+      {
+        "text": "Cheap eats in Pemuteran",
+        "intent": "FindRestaurant",
+        "entities": {
+          "LOCATION": "Pemuteran"
+        }
+      },
+      {
+        "text": "Family-friendly restaurants in Pemuteran",
+        "intent": "FindRestaurant",
+        "entities": {
+          "LOCATION": "Pemuteran"
+        }
+      },
+      {
+        "text": "Restaurants near Menjangan Island",
+        "intent": "FindRestaurant",
+        "entities": {
+          "LOCATION": "Menjangan Island"
+        }
+      },
+      {
+        "text": "Restaurants with a view in Pemuteran",
+        "intent": "FindRestaurant",
+        "entities": {
+          "LOCATION": "Pemuteran"
+        }
+      },
+      {
+        "text": "Vegan restaurants in Pemuteran",
+        "intent": "FindRestaurant",
+        "entities": {
+          "LOCATION": "Pemuteran"
+        }
+      },
+      {
+        "text": "Seafood restaurants in Pemuteran",
+        "intent": "FindRestaurant",
+        "entities": {
+          "LOCATION": "Pemuteran"
+        }
+      },
+      {
+        "text": "Romantic restaurants in Pemuteran",
+        "intent": "FindRestaurant",
+        "entities": {
+          "LOCATION": "Pemuteran"
+        }
+      },
+      {
+        "text": "Local cuisine restaurants in Pemuteran",
+        "intent": "FindRestaurant",
+        "entities": {
+          "LOCATION": "Pemuteran"
+        }
+      },
+      {
+        "text": "Restaurants near Pemuteran Beach in Pemuteran",
+        "intent": "FindRestaurant",
+        "entities": {
+          "LOCATION": "Pemuteran Beach"
+        }
+      },
+      {
+        "text": "Breakfast spots in Pemuteran",
+        "intent": "FindRestaurant",
+        "entities": {
+          "LOCATION": "Pemuteran"
+        }
+      }
+    ]
+    
+  
