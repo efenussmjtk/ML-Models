@@ -1,0 +1,800 @@
+[
+  {
+    "text": "Find a hospital in Ubud",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Best hospitals in Ubud",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Cheap hospitals in Ubud",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Family-friendly hospitals in Ubud",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Hospitals near Ubud Monkey Forest",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Hospitals with emergency services in Ubud",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Specialty hospitals in Ubud",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Hospitals with maternity wards in Ubud",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Hospitals with surgery facilities in Ubud",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Hospitals near Tegallalang Rice Terrace",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Tegallalang Rice Terrace"
+    }
+  },
+  {
+    "text": "Hospitals with outpatient services in Ubud",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Hospitals with inpatient services in Ubud",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Find a hospital in Kuta",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Best hospitals in Kuta",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Cheap hospitals in Kuta",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Family-friendly hospitals in Kuta",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Hospitals near Kuta Beach",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Hospitals with emergency services in Kuta",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Specialty hospitals in Kuta",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Hospitals with maternity wards in Kuta",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Hospitals with surgery facilities in Kuta",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Hospitals near Waterbom Bali in Kuta",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Hospitals with outpatient services in Kuta",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Hospitals with inpatient services in Kuta",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Find a hospital in Seminyak",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Best hospitals in Seminyak",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Cheap hospitals in Seminyak",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Family-friendly hospitals in Seminyak",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Hospitals near Seminyak Beach",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Hospitals with emergency services in Seminyak",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Specialty hospitals in Seminyak",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Hospitals with maternity wards in Seminyak",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Hospitals with surgery facilities in Seminyak",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Hospitals near Ku De Ta in Seminyak",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Hospitals with outpatient services in Seminyak",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Hospitals with inpatient services in Seminyak",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Find a hospital in Nusa Dua",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Best hospitals in Nusa Dua",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Cheap hospitals in Nusa Dua",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Family-friendly hospitals in Nusa Dua",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Hospitals near Nusa Dua Beach",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Hospitals with emergency services in Nusa Dua",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Specialty hospitals in Nusa Dua",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Hospitals with maternity wards in Nusa Dua",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Hospitals with surgery facilities in Nusa Dua",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Hospitals near Bali Collection in Nusa Dua",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Hospitals with outpatient services in Nusa Dua",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Hospitals with inpatient services in Nusa Dua",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Find a hospital in Jimbaran",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Best hospitals in Jimbaran",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Cheap hospitals in Jimbaran",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Family-friendly hospitals in Jimbaran",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Hospitals near Jimbaran Beach",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Hospitals with emergency services in Jimbaran",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Specialty hospitals in Jimbaran",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Hospitals with maternity wards in Jimbaran",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Hospitals with surgery facilities in Jimbaran",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Hospitals with outpatient services in Jimbaran",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Hospitals with inpatient services in Jimbaran",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Find a hospital in Candidasa",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Candidasa"
+    }
+  },
+  {
+    "text": "Best hospitals in Candidasa",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Candidasa"
+    }
+  },
+  {
+    "text": "Cheap hospitals in Candidasa",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Candidasa"
+    }
+  },
+  {
+    "text": "Family-friendly hospitals in Candidasa",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Candidasa"
+    }
+  },
+  {
+    "text": "Hospitals near Candidasa Beach",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Candidasa"
+    }
+  },
+  {
+    "text": "Hospitals with emergency services in Candidasa",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Candidasa"
+    }
+  },
+  {
+    "text": "Specialty hospitals in Candidasa",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Candidasa"
+    }
+  },
+  {
+    "text": "Hospitals with maternity wards in Candidasa",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Candidasa"
+    }
+  },
+  {
+    "text": "Hospitals with surgery facilities in Candidasa",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Candidasa"
+    }
+  },
+  {
+    "text": "Hospitals with outpatient services in Candidasa",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Candidasa"
+    }
+  },
+  {
+    "text": "Hospitals with inpatient services in Candidasa",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Candidasa"
+    }
+  },
+  {
+    "text": "Find a hospital in Tabanan",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Tabanan"
+    }
+  },
+  {
+    "text": "Best hospitals in Tabanan",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Tabanan"
+    }
+  },
+  {
+    "text": "Cheap hospitals in Tabanan",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Tabanan"
+    }
+  },
+  {
+    "text": "Family-friendly hospitals in Tabanan",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Tabanan"
+    }
+  },
+  {
+    "text": "Hospitals near Tanah Lot Temple in Tabanan",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Tabanan"
+    }
+  },
+  {
+    "text": "Hospitals with emergency services in Tabanan",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Tabanan"
+    }
+  },
+  {
+    "text": "Specialty hospitals in Tabanan",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Tabanan"
+    }
+  },
+  {
+    "text": "Hospitals with maternity wards in Tabanan",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Tabanan"
+    }
+  },
+  {
+    "text": "Hospitals with surgery facilities in Tabanan",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Tabanan"
+    }
+  },
+  {
+    "text": "Hospitals with outpatient services in Tabanan",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Tabanan"
+    }
+  },
+  {
+    "text": "Hospitals with inpatient services in Tabanan",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Tabanan"
+    }
+  },
+  {
+    "text": "Find a hospital in Kerobokan",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Kerobokan"
+    }
+  },
+  {
+    "text": "Best hospitals in Kerobokan",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Kerobokan"
+    }
+  },
+  {
+    "text": "Cheap hospitals in Kerobokan",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Kerobokan"
+    }
+  },
+  {
+    "text": "Family-friendly hospitals in Kerobokan",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Kerobokan"
+    }
+  },
+  {
+    "text": "Hospitals with emergency services in Kerobokan",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Kerobokan"
+    }
+  },
+  {
+    "text": "Specialty hospitals in Kerobokan",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Kerobokan"
+    }
+  },
+  {
+    "text": "Hospitals with maternity wards in Kerobokan",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Kerobokan"
+    }
+  },
+  {
+    "text": "Hospitals with surgery facilities in Kerobokan",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Kerobokan"
+    }
+  },
+  {
+    "text": "Hospitals near Seminyak in Kerobokan",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Hospitals with outpatient services in Kerobokan",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Kerobokan"
+    }
+  },
+  {
+    "text": "Hospitals with inpatient services in Kerobokan",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Kerobokan"
+    }
+  },
+  {
+    "text": "Find a hospital in Gianyar",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Gianyar"
+    }
+  },
+  {
+    "text": "Best hospitals in Gianyar",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Gianyar"
+    }
+  },
+  {
+    "text": "Cheap hospitals in Gianyar",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Gianyar"
+    }
+  },
+  {
+    "text": "Family-friendly hospitals in Gianyar",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Gianyar"
+    }
+  },
+  {
+    "text": "Hospitals near Bali Safari and Marine Park in Gianyar",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Gianyar"
+    }
+  },
+  {
+    "text": "Hospitals with emergency services in Gianyar",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Gianyar"
+    }
+  },
+  {
+    "text": "Specialty hospitals in Gianyar",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Gianyar"
+    }
+  },
+  {
+    "text": "Hospitals with maternity wards in Gianyar",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Gianyar"
+    }
+  },
+  {
+    "text": "Hospitals with surgery facilities in Gianyar",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Gianyar"
+    }
+  },
+  {
+    "text": "Hospitals with outpatient services in Gianyar",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Gianyar"
+    }
+  },
+  {
+    "text": "Hospitals with inpatient services in Gianyar",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Gianyar"
+    }
+  },
+  {
+    "text": "Find a hospital in Pemuteran",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Pemuteran"
+    }
+  },
+  {
+    "text": "Best hospitals in Pemuteran",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Pemuteran"
+    }
+  },
+  {
+    "text": "Cheap hospitals in Pemuteran",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Pemuteran"
+    }
+  },
+  {
+    "text": "Family-friendly hospitals in Pemuteran",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Pemuteran"
+    }
+  },
+  {
+    "text": "Hospitals near Menjangan Island in Pemuteran",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Pemuteran"
+    }
+  },
+  {
+    "text": "Hospitals with emergency services in Pemuteran",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Pemuteran"
+    }
+  },
+  {
+    "text": "Specialty hospitals in Pemuteran",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Pemuteran"
+    }
+  },
+  {
+    "text": "Hospitals with maternity wards in Pemuteran",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Pemuteran"
+    }
+  },
+  {
+    "text": "Hospitals with surgery facilities in Pemuteran",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Pemuteran"
+    }
+  },
+  {
+    "text": "Hospitals with outpatient services in Pemuteran",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Pemuteran"
+    }
+  },
+  {
+    "text": "Hospitals with inpatient services in Pemuteran",
+    "intent": "FindHospital",
+    "entities": {
+      "LOCATION": "Pemuteran"
+    }
+  }
+]
