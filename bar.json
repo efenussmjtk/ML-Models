@@ -1,0 +1,1395 @@
+[
+  {
+    "text": "Find a bar in Ubud",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Best bars in Ubud",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Cheap bars in Ubud",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Family-friendly bars in Ubud",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Bars near Ubud Monkey Forest",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Ubud Monkey Forest"
+    }
+  },
+  {
+    "text": "Bars with a view in Ubud",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Vegan-friendly bars in Ubud",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Bars with Wi-Fi in Ubud",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Eco-friendly bars in Ubud",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Romantic bars in Ubud",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Bars near Tegallalang Rice Terrace",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Tegallalang Rice Terrace"
+    }
+  },
+  {
+    "text": "Bars with outdoor seating in Ubud",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Find a bar in Kuta",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Beachfront bars in Kuta",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Budget bars in Kuta",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Bars near Kuta Beach",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Kuta Beach"
+    }
+  },
+  {
+    "text": "Bars with a pool in Kuta",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Family-friendly bars in Kuta",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Luxury bars in Kuta",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Bars near Waterbom Bali in Kuta",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Pet-friendly bars in Kuta",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Bars near nightlife in Kuta",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Bars with breakfast included in Kuta",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Find a bar in Seminyak",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Luxury bars in Seminyak",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Beachfront bars in Seminyak",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Boutique bars in Seminyak",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Bars near Seminyak Beach",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Seminyak Beach"
+    }
+  },
+  {
+    "text": "Family-friendly bars in Seminyak",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Cheap bars in Seminyak",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Bars with a pool in Seminyak",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Romantic bars in Seminyak",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Pet-friendly bars in Seminyak",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Bars near Ku De Ta in Seminyak",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Bars with breakfast in Seminyak",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Find a bar in Nusa Dua",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Luxury bars in Nusa Dua",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Beachfront bars in Nusa Dua",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Family-friendly bars in Nusa Dua",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Bars near Nusa Dua Beach",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Nusa Dua Beach"
+    }
+  },
+  {
+    "text": "Bars with a spa in Nusa Dua",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Cheap bars in Nusa Dua",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Bars with a pool in Nusa Dua",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Romantic bars in Nusa Dua",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Pet-friendly bars in Nusa Dua",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Bars near Bali Collection in Nusa Dua",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "All-inclusive bars in Nusa Dua",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Find a bar in Jimbaran",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Beachfront bars in Jimbaran",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Luxury bars in Jimbaran",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Cheap bars in Jimbaran",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Bars near Jimbaran Beach",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Jimbaran Beach"
+    }
+  },
+  {
+    "text": "Family-friendly bars in Jimbaran",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Bars with a pool in Jimbaran",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Romantic bars in Jimbaran",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Bars with a spa in Jimbaran",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Pet-friendly bars in Jimbaran",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Bars near seafood restaurants in Jimbaran",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Bars with breakfast in Jimbaran",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Find a bar in Sanur",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Sanur"
+    }
+  },
+  {
+    "text": "Beachfront bars in Sanur",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Sanur"
+    }
+  },
+  {
+    "text": "Luxury bars in Sanur",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Sanur"
+    }
+  },
+  {
+    "text": "Cheap bars in Sanur",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Sanur"
+    }
+  },
+  {
+    "text": "Bars near Sanur Beach",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Sanur Beach"
+    }
+  },
+  {
+    "text": "Family-friendly bars in Sanur",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Sanur"
+    }
+  },
+  {
+    "text": "Bars with a pool in Sanur",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Sanur"
+    }
+  },
+  {
+    "text": "Romantic bars in Sanur",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Sanur"
+    }
+  },
+  {
+    "text": "Bars with a spa in Sanur",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Sanur"
+    }
+  },
+  {
+    "text": "Pet-friendly bars in Sanur",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Sanur"
+    }
+  },
+  {
+    "text": "Bars near Sindhu Night Market in Sanur",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Sanur"
+    }
+  },
+  {
+    "text": "Bars with breakfast in Sanur",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Sanur"
+    }
+  },
+  {
+    "text": "Find a bar in Canggu",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Canggu"
+    }
+  },
+  {
+    "text": "Luxury bars in Canggu",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Canggu"
+    }
+  },
+  {
+    "text": "Beachfront bars in Canggu",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Canggu"
+    }
+  },
+  {
+    "text": "Cheap bars in Canggu",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Canggu"
+    }
+  },
+  {
+    "text": "Bars near Echo Beach in Canggu",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Canggu"
+    }
+  },
+  {
+    "text": "Family-friendly bars in Canggu",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Canggu"
+    }
+  },
+  {
+    "text": "Bars with a pool in Canggu",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Canggu"
+    }
+  },
+  {
+    "text": "Romantic bars in Canggu",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Canggu"
+    }
+  },
+  {
+    "text": "Pet-friendly bars in Canggu",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Canggu"
+    }
+  },
+  {
+    "text": "Bars with a spa in Canggu",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Canggu"
+    }
+  },
+  {
+    "text": "Bars near Batu Bolong Beach in Canggu",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Canggu"
+    }
+  },
+  {
+    "text": "Bars with breakfast in Canggu",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Canggu"
+    }
+  },
+  {
+    "text": "Find a bar in Uluwatu",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Uluwatu"
+    }
+  },
+  {
+    "text": "Luxury bars in Uluwatu",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Uluwatu"
+    }
+  },
+  {
+    "text": "Beachfront bars in Uluwatu",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Uluwatu"
+    }
+  },
+  {
+    "text": "Cheap bars in Uluwatu",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Uluwatu"
+    }
+  },
+  {
+    "text": "Bars near Uluwatu Temple",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Uluwatu Temple"
+    }
+  },
+  {
+    "text": "Family-friendly bars in Uluwatu",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Uluwatu"
+    }
+  },
+  {
+    "text": "Bars with a pool in Uluwatu",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Uluwatu"
+    }
+  },
+  {
+    "text": "Romantic bars in Uluwatu",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Uluwatu"
+    }
+  },
+  {
+    "text": "Pet-friendly bars in Uluwatu",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Uluwatu"
+    }
+  },
+  {
+    "text": "Bars with a spa in Uluwatu",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Uluwatu"
+    }
+  },
+  {
+    "text": "Bars near Padang Padang Beach in Uluwatu",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Uluwatu"
+    }
+  },
+  {
+    "text": "Bars with breakfast in Uluwatu",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Uluwatu"
+    }
+  },
+  {
+    "text": "Find a bar in Nusa Penida",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Nusa Penida"
+    }
+  },
+  {
+    "text": "Beachfront bars in Nusa Penida",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Nusa Penida"
+    }
+  },
+  {
+    "text": "Luxury bars in Nusa Penida",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Nusa Penida"
+    }
+  },
+  {
+    "text": "Cheap bars in Nusa Penida",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Nusa Penida"
+    }
+  },
+  {
+    "text": "Bars near Kelingking Beach in Nusa Penida",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Nusa Penida"
+    }
+  },
+  {
+    "text": "Family-friendly bars in Nusa Penida",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Nusa Penida"
+    }
+  },
+  {
+    "text": "Bars with a pool in Nusa Penida",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Nusa Penida"
+    }
+  },
+  {
+    "text": "Romantic bars in Nusa Penida",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Nusa Penida"
+    }
+  },
+  {
+    "text": "Pet-friendly bars in Nusa Penida",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Nusa Penida"
+    }
+  },
+  {
+    "text": "Bars with a spa in Nusa Penida",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Nusa Penida"
+    }
+  },
+  {
+    "text": "Bars near Angel's Billabong in Nusa Penida",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Nusa Penida"
+    }
+  },
+  {
+    "text": "Bars with breakfast in Nusa Penida",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Nusa Penida"
+    }
+  },
+  {
+    "text": "Find a bar in Amed",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Amed"
+    }
+  },
+  {
+    "text": "Beachfront bars in Amed",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Amed"
+    }
+  },
+  {
+    "text": "Luxury bars in Amed",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Amed"
+    }
+  },
+  {
+    "text": "Cheap bars in Amed",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Amed"
+    }
+  },
+  {
+    "text": "Bars near Amed Beach",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Amed Beach"
+    }
+  },
+  {
+    "text": "Family-friendly bars in Amed",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Amed"
+    }
+  },
+  {
+    "text": "Bars with a pool in Amed",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Amed"
+    }
+  },
+  {
+    "text": "Romantic bars in Amed",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Amed"
+    }
+  },
+  {
+    "text": "Pet-friendly bars in Amed",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Amed"
+    }
+  },
+  {
+    "text": "Bars with a spa in Amed",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Amed"
+    }
+  },
+  {
+    "text": "Bars near Jemeluk Bay in Amed",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Amed"
+    }
+  },
+  {
+    "text": "Bars with breakfast in Amed",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Amed"
+    }
+  },
+  {
+    "text": "Find a bar in Lovina",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Lovina"
+    }
+  },
+  {
+    "text": "Beachfront bars in Lovina",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Lovina"
+    }
+  },
+  {
+    "text": "Luxury bars in Lovina",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Lovina"
+    }
+  },
+  {
+    "text": "Cheap bars in Lovina",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Lovina"
+    }
+  },
+  {
+    "text": "Bars near Lovina Beach",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Lovina Beach"
+    }
+  },
+  {
+    "text": "Family-friendly bars in Lovina",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Lovina"
+    }
+  },
+  {
+    "text": "Bars with a pool in Lovina",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Lovina"
+    }
+  },
+  {
+    "text": "Romantic bars in Lovina",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Lovina"
+    }
+  },
+  {
+    "text": "Pet-friendly bars in Lovina",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Lovina"
+    }
+  },
+  {
+    "text": "Bars with a spa in Lovina",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Lovina"
+    }
+  },
+  {
+    "text": "Bars near Banjar Hot Springs in Lovina",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Lovina"
+    }
+  },
+  {
+    "text": "Bars with breakfast in Lovina",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Lovina"
+    }
+  },
+  {
+    "text": "Find a bar in Nusa Lembongan",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Nusa Lembongan"
+    }
+  },
+  {
+    "text": "Beachfront bars in Nusa Lembongan",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Nusa Lembongan"
+    }
+  },
+  {
+    "text": "Luxury bars in Nusa Lembongan",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Nusa Lembongan"
+    }
+  },
+  {
+    "text": "Cheap bars in Nusa Lembongan",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Nusa Lembongan"
+    }
+  },
+  {
+    "text": "Bars near Mushroom Bay in Nusa Lembongan",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Nusa Lembongan"
+    }
+  },
+  {
+    "text": "Family-friendly bars in Nusa Lembongan",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Nusa Lembongan"
+    }
+  },
+  {
+    "text": "Bars with a pool in Nusa Lembongan",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Nusa Lembongan"
+    }
+  },
+  {
+    "text": "Romantic bars in Nusa Lembongan",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Nusa Lembongan"
+    }
+  },
+  {
+    "text": "Pet-friendly bars in Nusa Lembongan",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Nusa Lembongan"
+    }
+  },
+  {
+    "text": "Bars with a spa in Nusa Lembongan",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Nusa Lembongan"
+    }
+  },
+  {
+    "text": "Bars near Devil's Tear in Nusa Lembongan",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Nusa Lembongan"
+    }
+  },
+  {
+    "text": "Bars with breakfast in Nusa Lembongan",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Nusa Lembongan"
+    }
+  },
+  {
+    "text": "Find a bar in Sidemen",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Sidemen"
+    }
+  },
+  {
+    "text": "Luxury bars in Sidemen",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Sidemen"
+    }
+  },
+  {
+    "text": "Cheap bars in Sidemen",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Sidemen"
+    }
+  },
+  {
+    "text": "Bars with a pool in Sidemen",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Sidemen"
+    }
+  },
+  {
+    "text": "Romantic bars in Sidemen",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Sidemen"
+    }
+  },
+  {
+    "text": "Pet-friendly bars in Sidemen",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Sidemen"
+    }
+  },
+  {
+    "text": "Bars with a spa in Sidemen",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Sidemen"
+    }
+  },
+  {
+    "text": "Bars near rice terraces in Sidemen",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Sidemen"
+    }
+  },
+  {
+    "text": "Bars with breakfast in Sidemen",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Sidemen"
+    }
+  },
+  {
+    "text": "Find a bar in Candidasa",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Candidasa"
+    }
+  },
+  {
+    "text": "Beachfront bars in Candidasa",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Candidasa"
+    }
+  },
+  {
+    "text": "Luxury bars in Candidasa",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Candidasa"
+    }
+  },
+  {
+    "text": "Cheap bars in Candidasa",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Candidasa"
+    }
+  },
+  {
+    "text": "Family-friendly bars in Candidasa",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Candidasa"
+    }
+  },
+  {
+    "text": "Bars with a pool in Candidasa",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Candidasa"
+    }
+  },
+  {
+    "text": "Romantic bars in Candidasa",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Candidasa"
+    }
+  },
+  {
+    "text": "Pet-friendly bars in Candidasa",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Candidasa"
+    }
+  },
+  {
+    "text": "Bars with a spa in Candidasa",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Candidasa"
+    }
+  },
+  {
+    "text": "Bars near Candidasa Beach",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Candidasa Beach"
+    }
+  },
+  {
+    "text": "Bars with breakfast in Candidasa",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Candidasa"
+    }
+  },
+  {
+    "text": "Find a bar in Tabanan",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Tabanan"
+    }
+  },
+  {
+    "text": "Luxury bars in Tabanan",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Tabanan"
+    }
+  },
+  {
+    "text": "Cheap bars in Tabanan",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Tabanan"
+    }
+  },
+  {
+    "text": "Bars with a pool in Tabanan",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Tabanan"
+    }
+  },
+  {
+    "text": "Romantic bars in Tabanan",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Tabanan"
+    }
+  },
+  {
+    "text": "Pet-friendly bars in Tabanan",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Tabanan"
+    }
+  },
+  {
+    "text": "Bars with a spa in Tabanan",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Tabanan"
+    }
+  },
+  {
+    "text": "Bars near Tanah Lot Temple in Tabanan",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Tabanan"
+    }
+  },
+  {
+    "text": "Bars with breakfast in Tabanan",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Tabanan"
+    }
+  },
+  {
+    "text": "Find a bar in Kerobokan",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Kerobokan"
+    }
+  },
+  {
+    "text": "Luxury bars in Kerobokan",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Kerobokan"
+    }
+  },
+  {
+    "text": "Cheap bars in Kerobokan",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Kerobokan"
+    }
+  },
+  {
+    "text": "Bars with a pool in Kerobokan",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Kerobokan"
+    }
+  },
+  {
+    "text": "Romantic bars in Kerobokan",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Kerobokan"
+    }
+  },
+  {
+    "text": "Pet-friendly bars in Kerobokan",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Kerobokan"
+    }
+  },
+  {
+    "text": "Bars with a spa in Kerobokan",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Kerobokan"
+    }
+  },
+  {
+    "text": "Bars near Seminyak in Kerobokan",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Kerobokan"
+    }
+  },
+  {
+    "text": "Bars with breakfast in Kerobokan",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Kerobokan"
+    }
+  },
+  {
+    "text": "Find a bar in Gianyar",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Gianyar"
+    }
+  },
+  {
+    "text": "Luxury bars in Gianyar",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Gianyar"
+    }
+  },
+  {
+    "text": "Cheap bars in Gianyar",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Gianyar"
+    }
+  },
+  {
+    "text": "Bars with a pool in Gianyar",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Gianyar"
+    }
+  },
+  {
+    "text": "Romantic bars in Gianyar",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Gianyar"
+    }
+  },
+  {
+    "text": "Pet-friendly bars in Gianyar",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Gianyar"
+    }
+  },
+  {
+    "text": "Bars with a spa in Gianyar",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Gianyar"
+    }
+  },
+  {
+    "text": "Bars near Bali Safari and Marine Park in Gianyar",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Gianyar"
+    }
+  },
+  {
+    "text": "Bars with breakfast in Gianyar",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Gianyar"
+    }
+  },
+  {
+    "text": "Find a bar in Pemuteran",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Pemuteran"
+    }
+  },
+  {
+    "text": "Luxury bars in Pemuteran",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Pemuteran"
+    }
+  },
+  {
+    "text": "Cheap bars in Pemuteran",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Pemuteran"
+    }
+  },
+  {
+    "text": "Bars with a pool in Pemuteran",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Pemuteran"
+    }
+  },
+  {
+    "text": "Romantic bars in Pemuteran",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Pemuteran"
+    }
+  },
+  {
+    "text": "Pet-friendly bars in Pemuteran",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Pemuteran"
+    }
+  },
+  {
+    "text": "Bars with a spa in Pemuteran",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Pemuteran"
+    }
+  },
+  {
+    "text": "Bars near Menjangan Island in Pemuteran",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Pemuteran"
+    }
+  },
+  {
+    "text": "Bars with breakfast in Pemuteran",
+    "intent": "FindBar",
+    "entities": {
+      "LOCATION": "Pemuteran"
+    }
+  }
+]
