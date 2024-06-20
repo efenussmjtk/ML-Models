@@ -1,0 +1,1395 @@
+[
+  {
+    "text": "Find a cafe in Ubud",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Best cafes in Ubud",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Cheap cafes in Ubud",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Family-friendly cafes in Ubud",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Cafes near Ubud Monkey Forest",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Ubud Monkey Forest"
+    }
+  },
+  {
+    "text": "Cafes with a view in Ubud",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Vegan cafes in Ubud",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Cafes with Wi-Fi in Ubud",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Eco-friendly cafes in Ubud",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Romantic cafes in Ubud",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Cafes near Tegallalang Rice Terrace",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Tegallalang Rice Terrace"
+    }
+  },
+  {
+    "text": "Cafes with outdoor seating in Ubud",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Find a cafe in Kuta",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Beachfront cafes in Kuta",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Budget cafes in Kuta",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Cafes near Kuta Beach",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Kuta Beach"
+    }
+  },
+  {
+    "text": "Cafes with a pool in Kuta",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Family-friendly cafes in Kuta",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Luxury cafes in Kuta",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Cafes near Waterbom Bali in Kuta",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Pet-friendly cafes in Kuta",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Cafes near nightlife in Kuta",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Cafes with breakfast included in Kuta",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Find a cafe in Seminyak",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Luxury cafes in Seminyak",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Beachfront cafes in Seminyak",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Boutique cafes in Seminyak",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Cafes near Seminyak Beach",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Seminyak Beach"
+    }
+  },
+  {
+    "text": "Family-friendly cafes in Seminyak",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Cheap cafes in Seminyak",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Cafes with a pool in Seminyak",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Romantic cafes in Seminyak",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Pet-friendly cafes in Seminyak",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Cafes near Ku De Ta in Seminyak",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Cafes with breakfast in Seminyak",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Find a cafe in Nusa Dua",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Luxury cafes in Nusa Dua",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Beachfront cafes in Nusa Dua",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Family-friendly cafes in Nusa Dua",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Cafes near Nusa Dua Beach",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Nusa Dua Beach"
+    }
+  },
+  {
+    "text": "Cafes with a spa in Nusa Dua",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Cheap cafes in Nusa Dua",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Cafes with a pool in Nusa Dua",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Romantic cafes in Nusa Dua",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Pet-friendly cafes in Nusa Dua",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Cafes near Bali Collection in Nusa Dua",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "All-inclusive cafes in Nusa Dua",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Find a cafe in Jimbaran",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Beachfront cafes in Jimbaran",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Luxury cafes in Jimbaran",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Cheap cafes in Jimbaran",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Cafes near Jimbaran Beach",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Jimbaran Beach"
+    }
+  },
+  {
+    "text": "Family-friendly cafes in Jimbaran",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Cafes with a pool in Jimbaran",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Romantic cafes in Jimbaran",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Cafes with a spa in Jimbaran",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Pet-friendly cafes in Jimbaran",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Cafes near seafood restaurants in Jimbaran",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Cafes with breakfast in Jimbaran",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Find a cafe in Sanur",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Sanur"
+    }
+  },
+  {
+    "text": "Beachfront cafes in Sanur",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Sanur"
+    }
+  },
+  {
+    "text": "Luxury cafes in Sanur",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Sanur"
+    }
+  },
+  {
+    "text": "Cheap cafes in Sanur",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Sanur"
+    }
+  },
+  {
+    "text": "Cafes near Sanur Beach",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Sanur Beach"
+    }
+  },
+  {
+    "text": "Family-friendly cafes in Sanur",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Sanur"
+    }
+  },
+  {
+    "text": "Cafes with a pool in Sanur",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Sanur"
+    }
+  },
+  {
+    "text": "Romantic cafes in Sanur",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Sanur"
+    }
+  },
+  {
+    "text": "Cafes with a spa in Sanur",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Sanur"
+    }
+  },
+  {
+    "text": "Pet-friendly cafes in Sanur",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Sanur"
+    }
+  },
+  {
+    "text": "Cafes near Sindhu Night Market in Sanur",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Sanur"
+    }
+  },
+  {
+    "text": "Cafes with breakfast in Sanur",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Sanur"
+    }
+  },
+  {
+    "text": "Find a cafe in Canggu",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Canggu"
+    }
+  },
+  {
+    "text": "Luxury cafes in Canggu",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Canggu"
+    }
+  },
+  {
+    "text": "Beachfront cafes in Canggu",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Canggu"
+    }
+  },
+  {
+    "text": "Cheap cafes in Canggu",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Canggu"
+    }
+  },
+  {
+    "text": "Cafes near Echo Beach in Canggu",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Canggu"
+    }
+  },
+  {
+    "text": "Family-friendly cafes in Canggu",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Canggu"
+    }
+  },
+  {
+    "text": "Cafes with a pool in Canggu",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Canggu"
+    }
+  },
+  {
+    "text": "Romantic cafes in Canggu",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Canggu"
+    }
+  },
+  {
+    "text": "Pet-friendly cafes in Canggu",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Canggu"
+    }
+  },
+  {
+    "text": "Cafes with a spa in Canggu",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Canggu"
+    }
+  },
+  {
+    "text": "Cafes near Batu Bolong Beach in Canggu",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Canggu"
+    }
+  },
+  {
+    "text": "Cafes with breakfast in Canggu",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Canggu"
+    }
+  },
+  {
+    "text": "Find a cafe in Uluwatu",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Uluwatu"
+    }
+  },
+  {
+    "text": "Luxury cafes in Uluwatu",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Uluwatu"
+    }
+  },
+  {
+    "text": "Beachfront cafes in Uluwatu",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Uluwatu"
+    }
+  },
+  {
+    "text": "Cheap cafes in Uluwatu",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Uluwatu"
+    }
+  },
+  {
+    "text": "Cafes near Uluwatu Temple",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Uluwatu Temple"
+    }
+  },
+  {
+    "text": "Family-friendly cafes in Uluwatu",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Uluwatu"
+    }
+  },
+  {
+    "text": "Cafes with a pool in Uluwatu",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Uluwatu"
+    }
+  },
+  {
+    "text": "Romantic cafes in Uluwatu",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Uluwatu"
+    }
+  },
+  {
+    "text": "Pet-friendly cafes in Uluwatu",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Uluwatu"
+    }
+  },
+  {
+    "text": "Cafes with a spa in Uluwatu",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Uluwatu"
+    }
+  },
+  {
+    "text": "Cafes near Padang Padang Beach in Uluwatu",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Uluwatu"
+    }
+  },
+  {
+    "text": "Cafes with breakfast in Uluwatu",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Uluwatu"
+    }
+  },
+  {
+    "text": "Find a cafe in Nusa Penida",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Nusa Penida"
+    }
+  },
+  {
+    "text": "Beachfront cafes in Nusa Penida",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Nusa Penida"
+    }
+  },
+  {
+    "text": "Luxury cafes in Nusa Penida",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Nusa Penida"
+    }
+  },
+  {
+    "text": "Cheap cafes in Nusa Penida",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Nusa Penida"
+    }
+  },
+  {
+    "text": "Cafes near Kelingking Beach in Nusa Penida",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Nusa Penida"
+    }
+  },
+  {
+    "text": "Family-friendly cafes in Nusa Penida",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Nusa Penida"
+    }
+  },
+  {
+    "text": "Cafes with a pool in Nusa Penida",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Nusa Penida"
+    }
+  },
+  {
+    "text": "Romantic cafes in Nusa Penida",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Nusa Penida"
+    }
+  },
+  {
+    "text": "Pet-friendly cafes in Nusa Penida",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Nusa Penida"
+    }
+  },
+  {
+    "text": "Cafes with a spa in Nusa Penida",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Nusa Penida"
+    }
+  },
+  {
+    "text": "Cafes near Angel's Billabong in Nusa Penida",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Nusa Penida"
+    }
+  },
+  {
+    "text": "Cafes with breakfast in Nusa Penida",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Nusa Penida"
+    }
+  },
+  {
+    "text": "Find a cafe in Amed",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Amed"
+    }
+  },
+  {
+    "text": "Beachfront cafes in Amed",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Amed"
+    }
+  },
+  {
+    "text": "Luxury cafes in Amed",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Amed"
+    }
+  },
+  {
+    "text": "Cheap cafes in Amed",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Amed"
+    }
+  },
+  {
+    "text": "Cafes near Amed Beach",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Amed Beach"
+    }
+  },
+  {
+    "text": "Family-friendly cafes in Amed",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Amed"
+    }
+  },
+  {
+    "text": "Cafes with a pool in Amed",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Amed"
+    }
+  },
+  {
+    "text": "Romantic cafes in Amed",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Amed"
+    }
+  },
+  {
+    "text": "Pet-friendly cafes in Amed",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Amed"
+    }
+  },
+  {
+    "text": "Cafes with a spa in Amed",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Amed"
+    }
+  },
+  {
+    "text": "Cafes near Jemeluk Bay in Amed",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Amed"
+    }
+  },
+  {
+    "text": "Cafes with breakfast in Amed",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Amed"
+    }
+  },
+  {
+    "text": "Find a cafe in Lovina",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Lovina"
+    }
+  },
+  {
+    "text": "Beachfront cafes in Lovina",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Lovina"
+    }
+  },
+  {
+    "text": "Luxury cafes in Lovina",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Lovina"
+    }
+  },
+  {
+    "text": "Cheap cafes in Lovina",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Lovina"
+    }
+  },
+  {
+    "text": "Cafes near Lovina Beach",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Lovina Beach"
+    }
+  },
+  {
+    "text": "Family-friendly cafes in Lovina",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Lovina"
+    }
+  },
+  {
+    "text": "Cafes with a pool in Lovina",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Lovina"
+    }
+  },
+  {
+    "text": "Romantic cafes in Lovina",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Lovina"
+    }
+  },
+  {
+    "text": "Pet-friendly cafes in Lovina",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Lovina"
+    }
+  },
+  {
+    "text": "Cafes with a spa in Lovina",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Lovina"
+    }
+  },
+  {
+    "text": "Cafes near Banjar Hot Springs in Lovina",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Lovina"
+    }
+  },
+  {
+    "text": "Cafes with breakfast in Lovina",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Lovina"
+    }
+  },
+  {
+    "text": "Find a cafe in Nusa Lembongan",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Nusa Lembongan"
+    }
+  },
+  {
+    "text": "Beachfront cafes in Nusa Lembongan",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Nusa Lembongan"
+    }
+  },
+  {
+    "text": "Luxury cafes in Nusa Lembongan",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Nusa Lembongan"
+    }
+  },
+  {
+    "text": "Cheap cafes in Nusa Lembongan",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Nusa Lembongan"
+    }
+  },
+  {
+    "text": "Cafes near Mushroom Bay in Nusa Lembongan",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Nusa Lembongan"
+    }
+  },
+  {
+    "text": "Family-friendly cafes in Nusa Lembongan",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Nusa Lembongan"
+    }
+  },
+  {
+    "text": "Cafes with a pool in Nusa Lembongan",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Nusa Lembongan"
+    }
+  },
+  {
+    "text": "Romantic cafes in Nusa Lembongan",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Nusa Lembongan"
+    }
+  },
+  {
+    "text": "Pet-friendly cafes in Nusa Lembongan",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Nusa Lembongan"
+    }
+  },
+  {
+    "text": "Cafes with a spa in Nusa Lembongan",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Nusa Lembongan"
+    }
+  },
+  {
+    "text": "Cafes near Devil's Tear in Nusa Lembongan",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Nusa Lembongan"
+    }
+  },
+  {
+    "text": "Cafes with breakfast in Nusa Lembongan",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Nusa Lembongan"
+    }
+  },
+  {
+    "text": "Find a cafe in Sidemen",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Sidemen"
+    }
+  },
+  {
+    "text": "Luxury cafes in Sidemen",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Sidemen"
+    }
+  },
+  {
+    "text": "Cheap cafes in Sidemen",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Sidemen"
+    }
+  },
+  {
+    "text": "Cafes with a pool in Sidemen",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Sidemen"
+    }
+  },
+  {
+    "text": "Romantic cafes in Sidemen",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Sidemen"
+    }
+  },
+  {
+    "text": "Pet-friendly cafes in Sidemen",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Sidemen"
+    }
+  },
+  {
+    "text": "Cafes with a spa in Sidemen",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Sidemen"
+    }
+  },
+  {
+    "text": "Cafes near rice terraces in Sidemen",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Sidemen"
+    }
+  },
+  {
+    "text": "Cafes with breakfast in Sidemen",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Sidemen"
+    }
+  },
+  {
+    "text": "Find a cafe in Candidasa",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Candidasa"
+    }
+  },
+  {
+    "text": "Beachfront cafes in Candidasa",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Candidasa"
+    }
+  },
+  {
+    "text": "Luxury cafes in Candidasa",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Candidasa"
+    }
+  },
+  {
+    "text": "Cheap cafes in Candidasa",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Candidasa"
+    }
+  },
+  {
+    "text": "Family-friendly cafes in Candidasa",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Candidasa"
+    }
+  },
+  {
+    "text": "Cafes with a pool in Candidasa",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Candidasa"
+    }
+  },
+  {
+    "text": "Romantic cafes in Candidasa",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Candidasa"
+    }
+  },
+  {
+    "text": "Pet-friendly cafes in Candidasa",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Candidasa"
+    }
+  },
+  {
+    "text": "Cafes with a spa in Candidasa",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Candidasa"
+    }
+  },
+  {
+    "text": "Cafes near Candidasa Beach",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Candidasa Beach"
+    }
+  },
+  {
+    "text": "Cafes with breakfast in Candidasa",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Candidasa"
+    }
+  },
+  {
+    "text": "Find a cafe in Tabanan",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Tabanan"
+    }
+  },
+  {
+    "text": "Luxury cafes in Tabanan",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Tabanan"
+    }
+  },
+  {
+    "text": "Cheap cafes in Tabanan",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Tabanan"
+    }
+  },
+  {
+    "text": "Cafes with a pool in Tabanan",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Tabanan"
+    }
+  },
+  {
+    "text": "Romantic cafes in Tabanan",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Tabanan"
+    }
+  },
+  {
+    "text": "Pet-friendly cafes in Tabanan",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Tabanan"
+    }
+  },
+  {
+    "text": "Cafes with a spa in Tabanan",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Tabanan"
+    }
+  },
+  {
+    "text": "Cafes near Tanah Lot Temple in Tabanan",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Tabanan"
+    }
+  },
+  {
+    "text": "Cafes with breakfast in Tabanan",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Tabanan"
+    }
+  },
+  {
+    "text": "Find a cafe in Kerobokan",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Kerobokan"
+    }
+  },
+  {
+    "text": "Luxury cafes in Kerobokan",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Kerobokan"
+    }
+  },
+  {
+    "text": "Cheap cafes in Kerobokan",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Kerobokan"
+    }
+  },
+  {
+    "text": "Cafes with a pool in Kerobokan",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Kerobokan"
+    }
+  },
+  {
+    "text": "Romantic cafes in Kerobokan",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Kerobokan"
+    }
+  },
+  {
+    "text": "Pet-friendly cafes in Kerobokan",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Kerobokan"
+    }
+  },
+  {
+    "text": "Cafes with a spa in Kerobokan",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Kerobokan"
+    }
+  },
+  {
+    "text": "Cafes near Seminyak in Kerobokan",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Kerobokan"
+    }
+  },
+  {
+    "text": "Cafes with breakfast in Kerobokan",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Kerobokan"
+    }
+  },
+  {
+    "text": "Find a cafe in Gianyar",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Gianyar"
+    }
+  },
+  {
+    "text": "Luxury cafes in Gianyar",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Gianyar"
+    }
+  },
+  {
+    "text": "Cheap cafes in Gianyar",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Gianyar"
+    }
+  },
+  {
+    "text": "Cafes with a pool in Gianyar",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Gianyar"
+    }
+  },
+  {
+    "text": "Romantic cafes in Gianyar",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Gianyar"
+    }
+  },
+  {
+    "text": "Pet-friendly cafes in Gianyar",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Gianyar"
+    }
+  },
+  {
+    "text": "Cafes with a spa in Gianyar",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Gianyar"
+    }
+  },
+  {
+    "text": "Cafes near Bali Safari and Marine Park in Gianyar",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Gianyar"
+    }
+  },
+  {
+    "text": "Cafes with breakfast in Gianyar",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Gianyar"
+    }
+  },
+  {
+    "text": "Find a cafe in Pemuteran",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Pemuteran"
+    }
+  },
+  {
+    "text": "Luxury cafes in Pemuteran",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Pemuteran"
+    }
+  },
+  {
+    "text": "Cheap cafes in Pemuteran",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Pemuteran"
+    }
+  },
+  {
+    "text": "Cafes with a pool in Pemuteran",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Pemuteran"
+    }
+  },
+  {
+    "text": "Romantic cafes in Pemuteran",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Pemuteran"
+    }
+  },
+  {
+    "text": "Pet-friendly cafes in Pemuteran",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Pemuteran"
+    }
+  },
+  {
+    "text": "Cafes with a spa in Pemuteran",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Pemuteran"
+    }
+  },
+  {
+    "text": "Cafes near Menjangan Island in Pemuteran",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Pemuteran"
+    }
+  },
+  {
+    "text": "Cafes with breakfast in Pemuteran",
+    "intent": "FindCafe",
+    "entities": {
+      "LOCATION": "Pemuteran"
+    }
+  }
+]
