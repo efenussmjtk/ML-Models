@@ -1,0 +1,1458 @@
+[
+  {
+    "text": "Find a hotel in Uluwatu",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Uluwatu"
+    }
+  },
+  {
+    "text": "Luxury hotels in Uluwatu",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Uluwatu"
+    }
+  },
+  {
+    "text": "Beachfront hotels in Uluwatu",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Uluwatu"
+    }
+  },
+  {
+    "text": "Cheap hotels in Uluwatu",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Uluwatu"
+    }
+  },
+  {
+    "text": "Family-friendly hotels in Uluwatu",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Uluwatu"
+    }
+  },
+  {
+    "text": "Hotels near Uluwatu Temple",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Uluwatu Temple"
+    }
+  },
+  {
+    "text": "Hotels with a pool in Uluwatu",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Uluwatu"
+    }
+  },
+  {
+    "text": "Romantic hotels in Uluwatu",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Uluwatu"
+    }
+  },
+  {
+    "text": "Pet-friendly hotels in Uluwatu",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Uluwatu"
+    }
+  },
+  {
+    "text": "Hotels with a spa in Uluwatu",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Uluwatu"
+    }
+  },
+  {
+    "text": "Hotels near Padang Padang Beach in Uluwatu",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Padang Padang Beach"
+    }
+  },
+  {
+    "text": "Hotels with breakfast in Uluwatu",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Uluwatu"
+    }
+  },
+  {
+    "text": "Find a hotel in Ungasan",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Ungasan"
+    }
+  },
+  {
+    "text": "Luxury hotels in Ungasan",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Ungasan"
+    }
+  },
+  {
+    "text": "Beachfront hotels in Ungasan",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Ungasan"
+    }
+  },
+  {
+    "text": "Cheap hotels in Ungasan",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Ungasan"
+    }
+  },
+  {
+    "text": "Family-friendly hotels in Ungasan",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Ungasan"
+    }
+  },
+  {
+    "text": "Hotels near Garuda Wisnu Kencana in Ungasan",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Garuda Wisnu Kencana"
+    }
+  },
+  {
+    "text": "Hotels with a pool in Ungasan",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Ungasan"
+    }
+  },
+  {
+    "text": "Romantic hotels in Ungasan",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Ungasan"
+    }
+  },
+  {
+    "text": "Pet-friendly hotels in Ungasan",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Ungasan"
+    }
+  },
+  {
+    "text": "Hotels with a spa in Ungasan",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Ungasan"
+    }
+  },
+  {
+    "text": "Hotels near Melasti Beach in Ungasan",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Melasti Beach"
+    }
+  },
+  {
+    "text": "Hotels with breakfast in Ungasan",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Ungasan"
+    }
+  },
+  {
+    "text": "Find a hotel in Nusa Dua",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Luxury resorts in Nusa Dua",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Beachfront hotels in Nusa Dua",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Cheap hotels in Nusa Dua",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Family-friendly hotels in Nusa Dua",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Hotels near Nusa Dua Beach",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Nusa Dua Beach"
+    }
+  },
+  {
+    "text": "Hotels with a spa in Nusa Dua",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Hotels with a pool in Nusa Dua",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Romantic hotels in Nusa Dua",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Pet-friendly hotels in Nusa Dua",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Hotels near Bali Collection in Nusa Dua",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Bali Collection"
+    }
+  },
+  {
+    "text": "All-inclusive hotels in Nusa Dua",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Find a hotel in Benoa",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Benoa"
+    }
+  },
+  {
+    "text": "Luxury hotels in Benoa",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Benoa"
+    }
+  },
+  {
+    "text": "Beachfront hotels in Benoa",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Benoa"
+    }
+  },
+  {
+    "text": "Cheap hotels in Benoa",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Benoa"
+    }
+  },
+  {
+    "text": "Family-friendly hotels in Benoa",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Benoa"
+    }
+  },
+  {
+    "text": "Hotels near Benoa Harbour",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Benoa Harbour"
+    }
+  },
+  {
+    "text": "Hotels with a pool in Benoa",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Benoa"
+    }
+  },
+  {
+    "text": "Romantic hotels in Benoa",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Benoa"
+    }
+  },
+  {
+    "text": "Pet-friendly hotels in Benoa",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Benoa"
+    }
+  },
+  {
+    "text": "Hotels with a spa in Benoa",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Benoa"
+    }
+  },
+  {
+    "text": "Hotels near Tanjung Benoa Beach in Benoa",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Tanjung Benoa Beach"
+    }
+  },
+  {
+    "text": "Hotels with breakfast in Benoa",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Benoa"
+    }
+  },
+  {
+    "text": "Find a hotel in Jimbaran",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Luxury hotels in Jimbaran",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Beachfront hotels in Jimbaran",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Cheap hotels in Jimbaran",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Family-friendly hotels in Jimbaran",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Hotels near Jimbaran Beach",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Jimbaran Beach"
+    }
+  },
+  {
+    "text": "Hotels with a pool in Jimbaran",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Romantic hotels in Jimbaran",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Pet-friendly hotels in Jimbaran",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Hotels with a spa in Jimbaran",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Hotels near seafood restaurants in Jimbaran",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Hotels with breakfast in Jimbaran",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Find a hotel in Tuban",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Tuban"
+    }
+  },
+  {
+    "text": "Luxury hotels in Tuban",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Tuban"
+    }
+  },
+  {
+    "text": "Beachfront hotels in Tuban",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Tuban"
+    }
+  },
+  {
+    "text": "Cheap hotels in Tuban",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Tuban"
+    }
+  },
+  {
+    "text": "Family-friendly hotels in Tuban",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Tuban"
+    }
+  },
+  {
+    "text": "Hotels near Tuban Beach",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Tuban Beach"
+    }
+  },
+  {
+    "text": "Hotels with a pool in Tuban",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Tuban"
+    }
+  },
+  {
+    "text": "Romantic hotels in Tuban",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Tuban"
+    }
+  },
+  {
+    "text": "Pet-friendly hotels in Tuban",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Tuban"
+    }
+  },
+  {
+    "text": "Hotels with a spa in Tuban",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Tuban"
+    }
+  },
+  {
+    "text": "Hotels near Waterbom Bali in Tuban",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Waterbom Bali"
+    }
+  },
+  {
+    "text": "Hotels with breakfast in Tuban",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Tuban"
+    }
+  },
+  {
+    "text": "Find a hotel in Kuta",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Luxury hotels in Kuta",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Beachfront hotels in Kuta",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Cheap hotels in Kuta",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Family-friendly hotels in Kuta",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Hotels near Kuta Beach",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Kuta Beach"
+    }
+  },
+  {
+    "text": "Hotels with a pool in Kuta",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Romantic hotels in Kuta",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Pet-friendly hotels in Kuta",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Hotels with a spa in Kuta",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Hotels near nightlife in Kuta",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Hotels with breakfast included in Kuta",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Find a hotel in Legian",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Legian"
+    }
+  },
+  {
+    "text": "Luxury hotels in Legian",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Legian"
+    }
+  },
+  {
+    "text": "Beachfront hotels in Legian",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Legian"
+    }
+  },
+  {
+    "text": "Cheap hotels in Legian",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Legian"
+    }
+  },
+  {
+    "text": "Family-friendly hotels in Legian",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Legian"
+    }
+  },
+  {
+    "text": "Hotels near Legian Beach",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Legian Beach"
+    }
+  },
+  {
+    "text": "Hotels with a pool in Legian",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Legian"
+    }
+  },
+  {
+    "text": "Romantic hotels in Legian",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Legian"
+    }
+  },
+  {
+    "text": "Pet-friendly hotels in Legian",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Legian"
+    }
+  },
+  {
+    "text": "Hotels with a spa in Legian",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Legian"
+    }
+  },
+  {
+    "text": "Hotels near Double Six Beach in Legian",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Double Six Beach"
+    }
+  },
+  {
+    "text": "Hotels with breakfast in Legian",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Legian"
+    }
+  },
+  {
+    "text": "Find a hotel in Seminyak",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Luxury hotels in Seminyak",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Beachfront hotels in Seminyak",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Cheap hotels in Seminyak",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Family-friendly hotels in Seminyak",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Hotels near Seminyak Beach",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Seminyak Beach"
+    }
+  },
+  {
+    "text": "Hotels with a pool in Seminyak",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Find Hotels around Seminyak",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Romantic hotels in Seminyak",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Pet-friendly hotels in Seminyak",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Hotels with a spa in Seminyak",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Hotels near Ku De Ta in Seminyak",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Ku De Ta"
+    }
+  },
+  {
+    "text": "Hotels with breakfast in Seminyak",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Find a hotel in Kerobokan",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Kerobokan"
+    }
+  },
+  {
+    "text": "Luxury hotels in Kerobokan",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Kerobokan"
+    }
+  },
+  {
+    "text": "Beachfront hotels in Kerobokan",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Kerobokan"
+    }
+  },
+  {
+    "text": "Cheap hotels in Kerobokan",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Kerobokan"
+    }
+  },
+  {
+    "text": "Family-friendly hotels in Kerobokan",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Kerobokan"
+    }
+  },
+  {
+    "text": "Hotels near Seminyak in Kerobokan",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Hotels with a pool in Kerobokan",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Kerobokan"
+    }
+  },
+  {
+    "text": "Romantic hotels in Kerobokan",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Kerobokan"
+    }
+  },
+  {
+    "text": "Pet-friendly hotels in Kerobokan",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Kerobokan"
+    }
+  },
+  {
+    "text": "Hotels with a spa in Kerobokan",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Kerobokan"
+    }
+  },
+  {
+    "text": "Hotels near Batu Belig Beach in Kerobokan",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Batu Belig Beach"
+    }
+  },
+  {
+    "text": "Hotels with breakfast in Kerobokan",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Kerobokan"
+    }
+  },
+  {
+    "text": "Find a hotel in Canggu",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Canggu"
+    }
+  },
+  {
+    "text": "Luxury hotels in Canggu",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Canggu"
+    }
+  },
+  {
+    "text": "Beachfront hotels in Canggu",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Canggu"
+    }
+  },
+  {
+    "text": "Cheap hotels in Canggu",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Canggu"
+    }
+  },
+  {
+    "text": "Family-friendly hotels in Canggu",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Canggu"
+    }
+  },
+  {
+    "text": "Hotels near Echo Beach in Canggu",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Echo Beach"
+    }
+  },
+  {
+    "text": "Hotels with a pool in Canggu",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Canggu"
+    }
+  },
+  {
+    "text": "Romantic hotels in Canggu",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Canggu"
+    }
+  },
+  {
+    "text": "Pet-friendly hotels in Canggu",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Canggu"
+    }
+  },
+  {
+    "text": "Hotels with a spa in Canggu",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Canggu"
+    }
+  },
+  {
+    "text": "Hotels near Batu Bolong Beach in Canggu",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Batu Bolong Beach"
+    }
+  },
+  {
+    "text": "Hotels with breakfast in Canggu",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Canggu"
+    }
+  },
+  {
+    "text": "Find a hotel in Tanah Lot",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Tanah Lot"
+    }
+  },
+  {
+    "text": "Luxury hotels in Tanah Lot",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Tanah Lot"
+    }
+  },
+  {
+    "text": "Beachfront hotels in Tanah Lot",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Tanah Lot"
+    }
+  },
+  {
+    "text": "Cheap hotels in Tanah Lot",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Tanah Lot"
+    }
+  },
+  {
+    "text": "Family-friendly hotels in Tanah Lot",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Tanah Lot"
+    }
+  },
+  {
+    "text": "Hotels near Tanah Lot Temple",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Tanah Lot Temple"
+    }
+  },
+  {
+    "text": "Hotels with a pool in Tanah Lot",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Tanah Lot"
+    }
+  },
+  {
+    "text": "Romantic hotels in Tanah Lot",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Tanah Lot"
+    }
+  },
+  {
+    "text": "Pet-friendly hotels in Tanah Lot",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Tanah Lot"
+    }
+  },
+  {
+    "text": "Hotels with a spa in Tanah Lot",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Tanah Lot"
+    }
+  },
+  {
+    "text": "Hotels near Nirwana Bali Golf Club in Tanah Lot",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Nirwana Bali Golf Club"
+    }
+  },
+  {
+    "text": "Hotels with breakfast in Tanah Lot",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Tanah Lot"
+    }
+  },
+  {
+    "text": "Find a hotel in Ubud",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Luxury hotels in Ubud",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Beachfront hotels in Ubud",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Cheap hotels in Ubud",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Family-friendly hotels in Ubud",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Hotels near Ubud Monkey Forest",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Ubud Monkey Forest"
+    }
+  },
+  {
+    "text": "Hotels with a pool in Ubud",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Romantic hotels in Ubud",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Pet-friendly hotels in Ubud",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Hotels with a spa in Ubud",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Hotels near Tegallalang Rice Terrace in Ubud",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Tegallalang Rice Terrace"
+    }
+  },
+  {
+    "text": "Hotels with breakfast in Ubud",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Find a hotel in Padangbai",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Padangbai"
+    }
+  },
+  {
+    "text": "Luxury hotels in Padangbai",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Padangbai"
+    }
+  },
+  {
+    "text": "Beachfront hotels in Padangbai",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Padangbai"
+    }
+  },
+  {
+    "text": "Cheap hotels in Padangbai",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Padangbai"
+    }
+  },
+  {
+    "text": "Family-friendly hotels in Padangbai",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Padangbai"
+    }
+  },
+  {
+    "text": "Hotels near Blue Lagoon Beach",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Blue Lagoon Beach"
+    }
+  },
+  {
+    "text": "Hotels with a pool in Padangbai",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Padangbai"
+    }
+  },
+  {
+    "text": "Romantic hotels in Padangbai",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Padangbai"
+    }
+  },
+  {
+    "text": "Pet-friendly hotels in Padangbai",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Padangbai"
+    }
+  },
+  {
+    "text": "Hotels with a spa in Padangbai",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Padangbai"
+    }
+  },
+  {
+    "text": "Hotels near Padangbai Pier in Padangbai",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Padangbai Pier"
+    }
+  },
+  {
+    "text": "Hotels with breakfast in Padangbai",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Padangbai"
+    }
+  },
+  {
+    "text": "Find a hotel in Amed",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Amed"
+    }
+  },
+  {
+    "text": "Luxury hotels in Amed",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Amed"
+    }
+  },
+  {
+    "text": "Beachfront hotels in Amed",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Amed"
+    }
+  },
+  {
+    "text": "Cheap hotels in Amed",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Amed"
+    }
+  },
+  {
+    "text": "Family-friendly hotels in Amed",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Amed"
+    }
+  },
+  {
+    "text": "Hotels near Amed Beach",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Amed Beach"
+    }
+  },
+  {
+    "text": "Hotels with a pool in Amed",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Amed"
+    }
+  },
+  {
+    "text": "Romantic hotels in Amed",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Amed"
+    }
+  },
+  {
+    "text": "Pet-friendly hotels in Amed",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Amed"
+    }
+  },
+  {
+    "text": "Hotels with a spa in Amed",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Amed"
+    }
+  },
+  {
+    "text": "Hotels near Jemeluk Bay in Amed",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Amed"
+    }
+  },
+  {
+    "text": "Pet-friendly hotels in Singaraja",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Singaraja"
+    }
+  },
+  {
+    "text": "Hotels with a spa in Singaraja",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Singaraja"
+    }
+  },
+  {
+    "text": "Hotels near Banjar Hot Springs in Singaraja",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Banjar Hot Springs"
+    }
+  },
+  {
+    "text": "Hotels with breakfast in Singaraja",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Singaraja"
+    }
+  },
+  {
+    "text": "Find a hotel in Lovina",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Lovina"
+    }
+  },
+  {
+    "text": "Luxury hotels in Lovina",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Lovina"
+    }
+  },
+  {
+    "text": "Beachfront hotels in Lovina",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Lovina"
+    }
+  },
+  {
+    "text": "Cheap hotels in Lovina",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Lovina"
+    }
+  },
+  {
+    "text": "Family-friendly hotels in Lovina",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Lovina"
+    }
+  },
+  {
+    "text": "Hotels near Lovina Beach",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Lovina Beach"
+    }
+  },
+  {
+    "text": "Hotels with a pool in Lovina",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Lovina"
+    }
+  },
+  {
+    "text": "Romantic hotels in Lovina",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Lovina"
+    }
+  },
+  {
+    "text": "Pet-friendly hotels in Lovina",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Lovina"
+    }
+  },
+  {
+    "text": "Hotels with a spa in Lovina",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Lovina"
+    }
+  },
+  {
+    "text": "Hotels near Banjar Hot Springs in Lovina",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Banjar Hot Springs"
+    }
+  },
+  {
+    "text": "Hotels with breakfast in Lovina",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Lovina"
+    }
+  },
+  {
+    "text": "Find a hotel in Pemuteran",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Pemuteran"
+    }
+  },
+  {
+    "text": "Luxury hotels in Pemuteran",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Pemuteran"
+    }
+  },
+  {
+    "text": "Beachfront hotels in Pemuteran",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Pemuteran"
+    }
+  },
+  {
+    "text": "Cheap hotels in Pemuteran",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Pemuteran"
+    }
+  },
+  {
+    "text": "Family-friendly hotels in Pemuteran",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Pemuteran"
+    }
+  },
+  {
+    "text": "Hotels near Menjangan Island",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Menjangan Island"
+    }
+  },
+  {
+    "text": "Hotels with a pool in Pemuteran",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Pemuteran"
+    }
+  },
+  {
+    "text": "Romantic hotels in Pemuteran",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Pemuteran"
+    }
+  },
+  {
+    "text": "Pet-friendly hotels in Pemuteran",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Pemuteran"
+    }
+  },
+  {
+    "text": "Hotels with a spa in Pemuteran",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Pemuteran"
+    }
+  },
+  {
+    "text": "Hotels near Pemuteran Beach in Pemuteran",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Pemuteran Beach"
+    }
+  },
+  {
+    "text": "Hotels with breakfast in Pemuteran",
+    "intent": "FindHotel",
+    "entities": {
+      "LOCATION": "Pemuteran"
+    }
+  }
+]
