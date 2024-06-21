@@ -1,0 +1,1395 @@
+[
+  {
+    "text": "Find nightlife in Ubud",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Best nightlife spots in Ubud",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Cheap nightlife in Ubud",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Family-friendly nightlife in Ubud",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Nightlife near Ubud Monkey Forest",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Ubud Monkey Forest"
+    }
+  },
+  {
+    "text": "Nightlife with a view in Ubud",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Vegan-friendly nightlife in Ubud",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Nightlife with Wi-Fi in Ubud",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Eco-friendly nightlife in Ubud",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Romantic nightlife in Ubud",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Nightlife near Tegallalang Rice Terrace",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Tegallalang Rice Terrace"
+    }
+  },
+  {
+    "text": "Outdoor nightlife in Ubud",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Find nightlife in Kuta",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Beachfront nightlife in Kuta",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Budget nightlife in Kuta",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Nightlife near Kuta Beach",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Kuta Beach"
+    }
+  },
+  {
+    "text": "Nightlife with a pool in Kuta",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Family-friendly nightlife in Kuta",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Luxury nightlife in Kuta",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Nightlife near Waterbom Bali in Kuta",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Pet-friendly nightlife in Kuta",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Nightlife near nightlife in Kuta",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Nightlife with breakfast included in Kuta",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Find nightlife in Seminyak",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Luxury nightlife in Seminyak",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Beachfront nightlife in Seminyak",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Boutique nightlife in Seminyak",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Nightlife near Seminyak Beach",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Seminyak Beach"
+    }
+  },
+  {
+    "text": "Family-friendly nightlife in Seminyak",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Cheap nightlife in Seminyak",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Nightlife with a pool in Seminyak",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Romantic nightlife in Seminyak",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Pet-friendly nightlife in Seminyak",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Nightlife near Ku De Ta in Seminyak",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Nightlife with breakfast in Seminyak",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Find nightlife in Nusa Dua",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Luxury nightlife in Nusa Dua",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Beachfront nightlife in Nusa Dua",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Family-friendly nightlife in Nusa Dua",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Nightlife near Nusa Dua Beach",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Nusa Dua Beach"
+    }
+  },
+  {
+    "text": "Nightlife with a spa in Nusa Dua",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Cheap nightlife in Nusa Dua",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Nightlife with a pool in Nusa Dua",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Romantic nightlife in Nusa Dua",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Pet-friendly nightlife in Nusa Dua",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Nightlife near Bali Collection in Nusa Dua",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "All-inclusive nightlife in Nusa Dua",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Find nightlife in Jimbaran",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Beachfront nightlife in Jimbaran",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Luxury nightlife in Jimbaran",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Cheap nightlife in Jimbaran",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Nightlife near Jimbaran Beach",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Jimbaran Beach"
+    }
+  },
+  {
+    "text": "Family-friendly nightlife in Jimbaran",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Nightlife with a pool in Jimbaran",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Romantic nightlife in Jimbaran",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Nightlife with a spa in Jimbaran",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Pet-friendly nightlife in Jimbaran",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Nightlife near seafood restaurants in Jimbaran",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Nightlife with breakfast in Jimbaran",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Find nightlife in Sanur",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Sanur"
+    }
+  },
+  {
+    "text": "Beachfront nightlife in Sanur",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Sanur"
+    }
+  },
+  {
+    "text": "Luxury nightlife in Sanur",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Sanur"
+    }
+  },
+  {
+    "text": "Cheap nightlife in Sanur",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Sanur"
+    }
+  },
+  {
+    "text": "Nightlife near Sanur Beach",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Sanur Beach"
+    }
+  },
+  {
+    "text": "Family-friendly nightlife in Sanur",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Sanur"
+    }
+  },
+  {
+    "text": "Nightlife with a pool in Sanur",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Sanur"
+    }
+  },
+  {
+    "text": "Romantic nightlife in Sanur",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Sanur"
+    }
+  },
+  {
+    "text": "Nightlife with a spa in Sanur",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Sanur"
+    }
+  },
+  {
+    "text": "Pet-friendly nightlife in Sanur",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Sanur"
+    }
+  },
+  {
+    "text": "Nightlife near Sindhu Night Market in Sanur",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Sanur"
+    }
+  },
+  {
+    "text": "Nightlife with breakfast in Sanur",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Sanur"
+    }
+  },
+  {
+    "text": "Find nightlife in Canggu",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Canggu"
+    }
+  },
+  {
+    "text": "Luxury nightlife in Canggu",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Canggu"
+    }
+  },
+  {
+    "text": "Beachfront nightlife in Canggu",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Canggu"
+    }
+  },
+  {
+    "text": "Cheap nightlife in Canggu",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Canggu"
+    }
+  },
+  {
+    "text": "Nightlife near Echo Beach in Canggu",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Canggu"
+    }
+  },
+  {
+    "text": "Family-friendly nightlife in Canggu",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Canggu"
+    }
+  },
+  {
+    "text": "Nightlife with a pool in Canggu",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Canggu"
+    }
+  },
+  {
+    "text": "Romantic nightlife in Canggu",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Canggu"
+    }
+  },
+  {
+    "text": "Pet-friendly nightlife in Canggu",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Canggu"
+    }
+  },
+  {
+    "text": "Nightlife with a spa in Canggu",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Canggu"
+    }
+  },
+  {
+    "text": "Nightlife near Batu Bolong Beach in Canggu",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Canggu"
+    }
+  },
+  {
+    "text": "Nightlife with breakfast in Canggu",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Canggu"
+    }
+  },
+  {
+    "text": "Find nightlife in Uluwatu",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Uluwatu"
+    }
+  },
+  {
+    "text": "Luxury nightlife in Uluwatu",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Uluwatu"
+    }
+  },
+  {
+    "text": "Beachfront nightlife in Uluwatu",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Uluwatu"
+    }
+  },
+  {
+    "text": "Cheap nightlife in Uluwatu",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Uluwatu"
+    }
+  },
+  {
+    "text": "Nightlife near Uluwatu Temple",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Uluwatu Temple"
+    }
+  },
+  {
+    "text": "Family-friendly nightlife in Uluwatu",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Uluwatu"
+    }
+  },
+  {
+    "text": "Nightlife with a pool in Uluwatu",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Uluwatu"
+    }
+  },
+  {
+    "text": "Romantic nightlife in Uluwatu",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Uluwatu"
+    }
+  },
+  {
+    "text": "Pet-friendly nightlife in Uluwatu",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Uluwatu"
+    }
+  },
+  {
+    "text": "Nightlife with a spa in Uluwatu",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Uluwatu"
+    }
+  },
+  {
+    "text": "Nightlife near Padang Padang Beach in Uluwatu",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Uluwatu"
+    }
+  },
+  {
+    "text": "Nightlife with breakfast in Uluwatu",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Uluwatu"
+    }
+  },
+  {
+    "text": "Find nightlife in Nusa Penida",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Nusa Penida"
+    }
+  },
+  {
+    "text": "Beachfront nightlife in Nusa Penida",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Nusa Penida"
+    }
+  },
+  {
+    "text": "Luxury nightlife in Nusa Penida",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Nusa Penida"
+    }
+  },
+  {
+    "text": "Cheap nightlife in Nusa Penida",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Nusa Penida"
+    }
+  },
+  {
+    "text": "Nightlife near Kelingking Beach in Nusa Penida",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Nusa Penida"
+    }
+  },
+  {
+    "text": "Family-friendly nightlife in Nusa Penida",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Nusa Penida"
+    }
+  },
+  {
+    "text": "Nightlife with a pool in Nusa Penida",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Nusa Penida"
+    }
+  },
+  {
+    "text": "Romantic nightlife in Nusa Penida",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Nusa Penida"
+    }
+  },
+  {
+    "text": "Pet-friendly nightlife in Nusa Penida",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Nusa Penida"
+    }
+  },
+  {
+    "text": "Nightlife with a spa in Nusa Penida",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Nusa Penida"
+    }
+  },
+  {
+    "text": "Nightlife near Angel's Billabong in Nusa Penida",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Nusa Penida"
+    }
+  },
+  {
+    "text": "Nightlife with breakfast in Nusa Penida",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Nusa Penida"
+    }
+  },
+  {
+    "text": "Find nightlife in Amed",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Amed"
+    }
+  },
+  {
+    "text": "Beachfront nightlife in Amed",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Amed"
+    }
+  },
+  {
+    "text": "Luxury nightlife in Amed",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Amed"
+    }
+  },
+  {
+    "text": "Cheap nightlife in Amed",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Amed"
+    }
+  },
+  {
+    "text": "Nightlife near Amed Beach",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Amed Beach"
+    }
+  },
+  {
+    "text": "Family-friendly nightlife in Amed",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Amed"
+    }
+  },
+  {
+    "text": "Nightlife with a pool in Amed",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Amed"
+    }
+  },
+  {
+    "text": "Romantic nightlife in Amed",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Amed"
+    }
+  },
+  {
+    "text": "Pet-friendly nightlife in Amed",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Amed"
+    }
+  },
+  {
+    "text": "Nightlife with a spa in Amed",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Amed"
+    }
+  },
+  {
+    "text": "Nightlife near Jemeluk Bay in Amed",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Amed"
+    }
+  },
+  {
+    "text": "Nightlife with breakfast in Amed",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Amed"
+    }
+  },
+  {
+    "text": "Find nightlife in Lovina",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Lovina"
+    }
+  },
+  {
+    "text": "Beachfront nightlife in Lovina",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Lovina"
+    }
+  },
+  {
+    "text": "Luxury nightlife in Lovina",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Lovina"
+    }
+  },
+  {
+    "text": "Cheap nightlife in Lovina",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Lovina"
+    }
+  },
+  {
+    "text": "Nightlife near Lovina Beach",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Lovina Beach"
+    }
+  },
+  {
+    "text": "Family-friendly nightlife in Lovina",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Lovina"
+    }
+  },
+  {
+    "text": "Nightlife with a pool in Lovina",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Lovina"
+    }
+  },
+  {
+    "text": "Romantic nightlife in Lovina",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Lovina"
+    }
+  },
+  {
+    "text": "Pet-friendly nightlife in Lovina",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Lovina"
+    }
+  },
+  {
+    "text": "Nightlife with a spa in Lovina",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Lovina"
+    }
+  },
+  {
+    "text": "Nightlife near Banjar Hot Springs in Lovina",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Lovina"
+    }
+  },
+  {
+    "text": "Nightlife with breakfast in Lovina",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Lovina"
+    }
+  },
+  {
+    "text": "Find nightlife in Nusa Lembongan",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Nusa Lembongan"
+    }
+  },
+  {
+    "text": "Beachfront nightlife in Nusa Lembongan",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Nusa Lembongan"
+    }
+  },
+  {
+    "text": "Luxury nightlife in Nusa Lembongan",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Nusa Lembongan"
+    }
+  },
+  {
+    "text": "Cheap nightlife in Nusa Lembongan",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Nusa Lembongan"
+    }
+  },
+  {
+    "text": "Nightlife near Mushroom Bay in Nusa Lembongan",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Nusa Lembongan"
+    }
+  },
+  {
+    "text": "Family-friendly nightlife in Nusa Lembongan",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Nusa Lembongan"
+    }
+  },
+  {
+    "text": "Nightlife with a pool in Nusa Lembongan",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Nusa Lembongan"
+    }
+  },
+  {
+    "text": "Romantic nightlife in Nusa Lembongan",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Nusa Lembongan"
+    }
+  },
+  {
+    "text": "Pet-friendly nightlife in Nusa Lembongan",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Nusa Lembongan"
+    }
+  },
+  {
+    "text": "Nightlife with a spa in Nusa Lembongan",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Nusa Lembongan"
+    }
+  },
+  {
+    "text": "Nightlife near Devil's Tear in Nusa Lembongan",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Nusa Lembongan"
+    }
+  },
+  {
+    "text": "Nightlife with breakfast in Nusa Lembongan",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Nusa Lembongan"
+    }
+  },
+  {
+    "text": "Find nightlife in Sidemen",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Sidemen"
+    }
+  },
+  {
+    "text": "Luxury nightlife in Sidemen",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Sidemen"
+    }
+  },
+  {
+    "text": "Cheap nightlife in Sidemen",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Sidemen"
+    }
+  },
+  {
+    "text": "Nightlife with a pool in Sidemen",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Sidemen"
+    }
+  },
+  {
+    "text": "Romantic nightlife in Sidemen",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Sidemen"
+    }
+  },
+  {
+    "text": "Pet-friendly nightlife in Sidemen",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Sidemen"
+    }
+  },
+  {
+    "text": "Nightlife with a spa in Sidemen",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Sidemen"
+    }
+  },
+  {
+    "text": "Nightlife near rice terraces in Sidemen",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Sidemen"
+    }
+  },
+  {
+    "text": "Nightlife with breakfast in Sidemen",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Sidemen"
+    }
+  },
+  {
+    "text": "Find nightlife in Candidasa",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Candidasa"
+    }
+  },
+  {
+    "text": "Beachfront nightlife in Candidasa",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Candidasa"
+    }
+  },
+  {
+    "text": "Luxury nightlife in Candidasa",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Candidasa"
+    }
+  },
+  {
+    "text": "Cheap nightlife in Candidasa",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Candidasa"
+    }
+  },
+  {
+    "text": "Family-friendly nightlife in Candidasa",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Candidasa"
+    }
+  },
+  {
+    "text": "Nightlife with a pool in Candidasa",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Candidasa"
+    }
+  },
+  {
+    "text": "Romantic nightlife in Candidasa",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Candidasa"
+    }
+  },
+  {
+    "text": "Pet-friendly nightlife in Candidasa",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Candidasa"
+    }
+  },
+  {
+    "text": "Nightlife with a spa in Candidasa",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Candidasa"
+    }
+  },
+  {
+    "text": "Nightlife near Candidasa Beach",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Candidasa Beach"
+    }
+  },
+  {
+    "text": "Nightlife with breakfast in Candidasa",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Candidasa"
+    }
+  },
+  {
+    "text": "Find nightlife in Tabanan",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Tabanan"
+    }
+  },
+  {
+    "text": "Luxury nightlife in Tabanan",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Tabanan"
+    }
+  },
+  {
+    "text": "Cheap nightlife in Tabanan",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Tabanan"
+    }
+  },
+  {
+    "text": "Nightlife with a pool in Tabanan",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Tabanan"
+    }
+  },
+  {
+    "text": "Romantic nightlife in Tabanan",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Tabanan"
+    }
+  },
+  {
+    "text": "Pet-friendly nightlife in Tabanan",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Tabanan"
+    }
+  },
+  {
+    "text": "Nightlife with a spa in Tabanan",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Tabanan"
+    }
+  },
+  {
+    "text": "Nightlife near Tanah Lot Temple in Tabanan",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Tabanan"
+    }
+  },
+  {
+    "text": "Nightlife with breakfast in Tabanan",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Tabanan"
+    }
+  },
+  {
+    "text": "Find nightlife in Kerobokan",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Kerobokan"
+    }
+  },
+  {
+    "text": "Luxury nightlife in Kerobokan",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Kerobokan"
+    }
+  },
+  {
+    "text": "Cheap nightlife in Kerobokan",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Kerobokan"
+    }
+  },
+  {
+    "text": "Nightlife with a pool in Kerobokan",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Kerobokan"
+    }
+  },
+  {
+    "text": "Romantic nightlife in Kerobokan",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Kerobokan"
+    }
+  },
+  {
+    "text": "Pet-friendly nightlife in Kerobokan",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Kerobokan"
+    }
+  },
+  {
+    "text": "Nightlife with a spa in Kerobokan",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Kerobokan"
+    }
+  },
+  {
+    "text": "Nightlife near Seminyak in Kerobokan",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Kerobokan"
+    }
+  },
+  {
+    "text": "Nightlife with breakfast in Kerobokan",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Kerobokan"
+    }
+  },
+  {
+    "text": "Find nightlife in Gianyar",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Gianyar"
+    }
+  },
+  {
+    "text": "Luxury nightlife in Gianyar",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Gianyar"
+    }
+  },
+  {
+    "text": "Cheap nightlife in Gianyar",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Gianyar"
+    }
+  },
+  {
+    "text": "Nightlife with a pool in Gianyar",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Gianyar"
+    }
+  },
+  {
+    "text": "Romantic nightlife in Gianyar",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Gianyar"
+    }
+  },
+  {
+    "text": "Pet-friendly nightlife in Gianyar",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Gianyar"
+    }
+  },
+  {
+    "text": "Nightlife with a spa in Gianyar",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Gianyar"
+    }
+  },
+  {
+    "text": "Nightlife near Bali Safari and Marine Park in Gianyar",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Gianyar"
+    }
+  },
+  {
+    "text": "Nightlife with breakfast in Gianyar",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Gianyar"
+    }
+  },
+  {
+    "text": "Find nightlife in Pemuteran",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Pemuteran"
+    }
+  },
+  {
+    "text": "Luxury nightlife in Pemuteran",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Pemuteran"
+    }
+  },
+  {
+    "text": "Cheap nightlife in Pemuteran",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Pemuteran"
+    }
+  },
+  {
+    "text": "Nightlife with a pool in Pemuteran",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Pemuteran"
+    }
+  },
+  {
+    "text": "Romantic nightlife in Pemuteran",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Pemuteran"
+    }
+  },
+  {
+    "text": "Pet-friendly nightlife in Pemuteran",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Pemuteran"
+    }
+  },
+  {
+    "text": "Nightlife with a spa in Pemuteran",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Pemuteran"
+    }
+  },
+  {
+    "text": "Nightlife near Menjangan Island in Pemuteran",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Pemuteran"
+    }
+  },
+  {
+    "text": "Nightlife with breakfast in Pemuteran",
+    "intent": "FindNightlife",
+    "entities": {
+      "LOCATION": "Pemuteran"
+    }
+  }
+]
