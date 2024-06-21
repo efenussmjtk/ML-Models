@@ -1,0 +1,1598 @@
+[
+  {
+    "text": "Find a tourist attraction in Uluwatu",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Uluwatu"
+    }
+  },
+  {
+    "text": "Top tourist attractions in Uluwatu",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Uluwatu"
+    }
+  },
+  {
+    "text": "Must-see attractions in Uluwatu",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Uluwatu"
+    }
+  },
+  {
+    "text": "Family-friendly attractions in Uluwatu",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Uluwatu"
+    }
+  },
+  {
+    "text": "Romantic attractions in Uluwatu",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Uluwatu"
+    }
+  },
+  {
+    "text": "Cultural attractions in Uluwatu",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Uluwatu"
+    }
+  },
+  {
+    "text": "Outdoor activities in Uluwatu",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Uluwatu"
+    }
+  },
+  {
+    "text": "Adventure activities in Uluwatu",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Uluwatu"
+    }
+  },
+  {
+    "text": "Hidden gems in Uluwatu",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Uluwatu"
+    }
+  },
+  {
+    "text": "Historical sites in Uluwatu",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Uluwatu"
+    }
+  },
+  {
+    "text": "Popular beaches in Uluwatu",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Uluwatu"
+    }
+  },
+  {
+    "text": "Best viewpoints in Uluwatu",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Uluwatu"
+    }
+  },
+  {
+    "text": "Find a tourist attraction in Ungasan",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Ungasan"
+    }
+  },
+  {
+    "text": "Top tourist attractions in Ungasan",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Ungasan"
+    }
+  },
+  {
+    "text": "Must-see attractions in Ungasan",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Ungasan"
+    }
+  },
+  {
+    "text": "Family-friendly attractions in Ungasan",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Ungasan"
+    }
+  },
+  {
+    "text": "Romantic attractions in Ungasan",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Ungasan"
+    }
+  },
+  {
+    "text": "Cultural attractions in Ungasan",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Ungasan"
+    }
+  },
+  {
+    "text": "Outdoor activities in Ungasan",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Ungasan"
+    }
+  },
+  {
+    "text": "Adventure activities in Ungasan",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Ungasan"
+    }
+  },
+  {
+    "text": "Hidden gems in Ungasan",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Ungasan"
+    }
+  },
+  {
+    "text": "Historical sites in Ungasan",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Ungasan"
+    }
+  },
+  {
+    "text": "Popular beaches in Ungasan",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Ungasan"
+    }
+  },
+  {
+    "text": "Best viewpoints in Ungasan",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Ungasan"
+    }
+  },
+  {
+    "text": "Find a tourist attraction in Nusa Dua",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Top tourist attractions in Nusa Dua",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Must-see attractions in Nusa Dua",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Family-friendly attractions in Nusa Dua",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Romantic attractions in Nusa Dua",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Cultural attractions in Nusa Dua",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Outdoor activities in Nusa Dua",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Adventure activities in Nusa Dua",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Hidden gems in Nusa Dua",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Historical sites in Nusa Dua",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Popular beaches in Nusa Dua",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Best viewpoints in Nusa Dua",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Nusa Dua"
+    }
+  },
+  {
+    "text": "Find a tourist attraction in Benoa",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Benoa"
+    }
+  },
+  {
+    "text": "Top tourist attractions in Benoa",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Benoa"
+    }
+  },
+  {
+    "text": "Must-see attractions in Benoa",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Benoa"
+    }
+  },
+  {
+    "text": "Family-friendly attractions in Benoa",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Benoa"
+    }
+  },
+  {
+    "text": "Romantic attractions in Benoa",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Benoa"
+    }
+  },
+  {
+    "text": "Cultural attractions in Benoa",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Benoa"
+    }
+  },
+  {
+    "text": "Outdoor activities in Benoa",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Benoa"
+    }
+  },
+  {
+    "text": "Adventure activities in Benoa",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Benoa"
+    }
+  },
+  {
+    "text": "Hidden gems in Benoa",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Benoa"
+    }
+  },
+  {
+    "text": "Historical sites in Benoa",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Benoa"
+    }
+  },
+  {
+    "text": "Popular beaches in Benoa",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Benoa"
+    }
+  },
+  {
+    "text": "Best viewpoints in Benoa",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Benoa"
+    }
+  },
+  {
+    "text": "Find a tourist attraction in Jimbaran",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Top tourist attractions in Jimbaran",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Must-see attractions in Jimbaran",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Family-friendly attractions in Jimbaran",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Romantic attractions in Jimbaran",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Cultural attractions in Jimbaran",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Outdoor activities in Jimbaran",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Adventure activities in Jimbaran",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Hidden gems in Jimbaran",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Historical sites in Jimbaran",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Popular beaches in Jimbaran",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Best viewpoints in Jimbaran",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Jimbaran"
+    }
+  },
+  {
+    "text": "Find a tourist attraction in Tuban",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Tuban"
+    }
+  },
+  {
+    "text": "Top tourist attractions in Tuban",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Tuban"
+    }
+  },
+  {
+    "text": "Must-see attractions in Tuban",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Tuban"
+    }
+  },
+  {
+    "text": "Family-friendly attractions in Tuban",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Tuban"
+    }
+  },
+  {
+    "text": "Romantic attractions in Tuban",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Tuban"
+    }
+  },
+  {
+    "text": "Cultural attractions in Tuban",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Tuban"
+    }
+  },
+  {
+    "text": "Outdoor activities in Tuban",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Tuban"
+    }
+  },
+  {
+    "text": "Adventure activities in Tuban",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Tuban"
+    }
+  },
+  {
+    "text": "Hidden gems in Tuban",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Tuban"
+    }
+  },
+  {
+    "text": "Historical sites in Tuban",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Tuban"
+    }
+  },
+  {
+    "text": "Popular beaches in Tuban",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Tuban"
+    }
+  },
+  {
+    "text": "Best viewpoints in Tuban",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Tuban"
+    }
+  },
+  {
+    "text": "Find a tourist attraction in Kuta",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Top tourist attractions in Kuta",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Must-see attractions in Kuta",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Family-friendly attractions in Kuta",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Romantic attractions in Kuta",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Cultural attractions in Kuta",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Outdoor activities in Kuta",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Adventure activities in Kuta",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Hidden gems in Kuta",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Historical sites in Kuta",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Popular beaches in Kuta",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Best viewpoints in Kuta",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Kuta"
+    }
+  },
+  {
+    "text": "Find a tourist attraction in Legian",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Legian"
+    }
+  },
+  {
+    "text": "Top tourist attractions in Legian",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Legian"
+    }
+  },
+  {
+    "text": "Must-see attractions in Legian",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Legian"
+    }
+  },
+  {
+    "text": "Family-friendly attractions in Legian",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Legian"
+    }
+  },
+  {
+    "text": "Romantic attractions in Legian",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Legian"
+    }
+  },
+  {
+    "text": "Cultural attractions in Legian",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Legian"
+    }
+  },
+  {
+    "text": "Outdoor activities in Legian",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Legian"
+    }
+  },
+  {
+    "text": "Adventure activities in Legian",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Legian"
+    }
+  },
+  {
+    "text": "Hidden gems in Legian",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Legian"
+    }
+  },
+  {
+    "text": "Historical sites in Legian",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Legian"
+    }
+  },
+  {
+    "text": "Popular beaches in Legian",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Legian"
+    }
+  },
+  {
+    "text": "Best viewpoints in Legian",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Legian"
+    }
+  },
+  {
+    "text": "Find a tourist attraction in Seminyak",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Top tourist attractions in Seminyak",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Must-see attractions in Seminyak",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Family-friendly attractions in Seminyak",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Romantic attractions in Seminyak",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Cultural attractions in Seminyak",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Outdoor activities in Seminyak",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Adventure activities in Seminyak",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Hidden gems in Seminyak",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Historical sites in Seminyak",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Popular beaches in Seminyak",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Best viewpoints in Seminyak",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Seminyak"
+    }
+  },
+  {
+    "text": "Find a tourist attraction in Kerobokan",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Kerobokan"
+    }
+  },
+  {
+    "text": "Top tourist attractions in Kerobokan",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Kerobokan"
+    }
+  },
+  {
+    "text": "Must-see attractions in Kerobokan",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Kerobokan"
+    }
+  },
+  {
+    "text": "Family-friendly attractions in Kerobokan",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Kerobokan"
+    }
+  },
+  {
+    "text": "Romantic attractions in Kerobokan",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Kerobokan"
+    }
+  },
+  {
+    "text": "Cultural attractions in Kerobokan",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Kerobokan"
+    }
+  },
+  {
+    "text": "Outdoor activities in Kerobokan",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Kerobokan"
+    }
+  },
+  {
+    "text": "Adventure activities in Kerobokan",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Kerobokan"
+    }
+  },
+  {
+    "text": "Hidden gems in Kerobokan",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Kerobokan"
+    }
+  },
+  {
+    "text": "Historical sites in Kerobokan",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Kerobokan"
+    }
+  },
+  {
+    "text": "Popular beaches in Kerobokan",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Kerobokan"
+    }
+  },
+  {
+    "text": "Best viewpoints in Kerobokan",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Kerobokan"
+    }
+  },
+  {
+    "text": "Find a tourist attraction in Canggu",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Canggu"
+    }
+  },
+  {
+    "text": "Top tourist attractions in Canggu",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Canggu"
+    }
+  },
+  {
+    "text": "Must-see attractions in Canggu",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Canggu"
+    }
+  },
+  {
+    "text": "Family-friendly attractions in Canggu",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Canggu"
+    }
+  },
+  {
+    "text": "Romantic attractions in Canggu",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Canggu"
+    }
+  },
+  {
+    "text": "Cultural attractions in Canggu",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Canggu"
+    }
+  },
+  {
+    "text": "Outdoor activities in Canggu",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Canggu"
+    }
+  },
+  {
+    "text": "Adventure activities in Canggu",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Canggu"
+    }
+  },
+  {
+    "text": "Hidden gems in Canggu",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Canggu"
+    }
+  },
+  {
+    "text": "Historical sites in Canggu",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Canggu"
+    }
+  },
+  {
+    "text": "Popular beaches in Canggu",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Canggu"
+    }
+  },
+  {
+    "text": "Best viewpoints in Canggu",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Canggu"
+    }
+  },
+  {
+    "text": "Find a tourist attraction in Tanah Lot",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Tanah Lot"
+    }
+  },
+  {
+    "text": "Top tourist attractions in Tanah Lot",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Tanah Lot"
+    }
+  },
+  {
+    "text": "Must-see attractions in Tanah Lot",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Tanah Lot"
+    }
+  },
+  {
+    "text": "Family-friendly attractions in Tanah Lot",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Tanah Lot"
+    }
+  },
+  {
+    "text": "Romantic attractions in Tanah Lot",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Tanah Lot"
+    }
+  },
+  {
+    "text": "Cultural attractions in Tanah Lot",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Tanah Lot"
+    }
+  },
+  {
+    "text": "Outdoor activities in Tanah Lot",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Tanah Lot"
+    }
+  },
+  {
+    "text": "Adventure activities in Tanah Lot",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Tanah Lot"
+    }
+  },
+  {
+    "text": "Hidden gems in Tanah Lot",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Tanah Lot"
+    }
+  },
+  {
+    "text": "Historical sites in Tanah Lot",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Tanah Lot"
+    }
+  },
+  {
+    "text": "Popular beaches in Tanah Lot",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Tanah Lot"
+    }
+  },
+  {
+    "text": "Best viewpoints in Tanah Lot",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Tanah Lot"
+    }
+  },
+  {
+    "text": "Find a tourist attraction in Ubud",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Top tourist attractions in Ubud",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Must-see attractions in Ubud",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Family-friendly attractions in Ubud",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Romantic attractions in Ubud",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Cultural attractions in Ubud",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Outdoor activities in Ubud",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Adventure activities in Ubud",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Hidden gems in Ubud",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Historical sites in Ubud",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Popular beaches in Ubud",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Best viewpoints in Ubud",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Ubud"
+    }
+  },
+  {
+    "text": "Find a tourist attraction in Padangbai",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Padangbai"
+    }
+  },
+  {
+    "text": "Top tourist attractions in Padangbai",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Padangbai"
+    }
+  },
+  {
+    "text": "Must-see attractions in Padangbai",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Padangbai"
+    }
+  },
+  {
+    "text": "Family-friendly attractions in Padangbai",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Padangbai"
+    }
+  },
+  {
+    "text": "Romantic attractions in Padangbai",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Padangbai"
+    }
+  },
+  {
+    "text": "Cultural attractions in Padangbai",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Padangbai"
+    }
+  },
+  {
+    "text": "Outdoor activities in Padangbai",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Padangbai"
+    }
+  },
+  {
+    "text": "Adventure activities in Padangbai",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Padangbai"
+    }
+  },
+  {
+    "text": "Hidden gems in Padangbai",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Padangbai"
+    }
+  },
+  {
+    "text": "Historical sites in Padangbai",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Padangbai"
+    }
+  },
+  {
+    "text": "Popular beaches in Padangbai",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Padangbai"
+    }
+  },
+  {
+    "text": "Best viewpoints in Padangbai",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Padangbai"
+    }
+  },
+  {
+    "text": "Find a tourist attraction in Amed",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Amed"
+    }
+  },
+  {
+    "text": "Top tourist attractions in Amed",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Amed"
+    }
+  },
+  {
+    "text": "Must-see attractions in Amed",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Amed"
+    }
+  },
+  {
+    "text": "Family-friendly attractions in Amed",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Amed"
+    }
+  },
+  {
+    "text": "Romantic attractions in Amed",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Amed"
+    }
+  },
+  {
+    "text": "Cultural attractions in Amed",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Amed"
+    }
+  },
+  {
+    "text": "Outdoor activities in Amed",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Amed"
+    }
+  },
+  {
+    "text": "Adventure activities in Amed",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Amed"
+    }
+  },
+  {
+    "text": "Hidden gems in Amed",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Amed"
+    }
+  },
+  {
+    "text": "Historical sites in Amed",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Amed"
+    }
+  },
+  {
+    "text": "Popular beaches in Amed",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Amed"
+    }
+  },
+  {
+    "text": "Best viewpoints in Amed",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Amed"
+    }
+  },
+  {
+    "text": "Find a tourist attraction in Tulamben",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Tulamben"
+    }
+  },
+  {
+    "text": "Top tourist attractions in Tulamben",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Tulamben"
+    }
+  },
+  {
+    "text": "Must-see attractions in Tulamben",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Tulamben"
+    }
+  },
+  {
+    "text": "Family-friendly attractions in Tulamben",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Tulamben"
+    }
+  },
+  {
+    "text": "Romantic attractions in Tulamben",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Tulamben"
+    }
+  },
+  {
+    "text": "Cultural attractions in Tulamben",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Tulamben"
+    }
+  },
+  {
+    "text": "Outdoor activities in Tulamben",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Tulamben"
+    }
+  },
+  {
+    "text": "Adventure activities in Tulamben",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Tulamben"
+    }
+  },
+  {
+    "text": "Hidden gems in Tulamben",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Tulamben"
+    }
+  },
+  {
+    "text": "Historical sites in Tulamben",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Tulamben"
+    }
+  },
+  {
+    "text": "Popular beaches in Tulamben",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Tulamben"
+    }
+  },
+  {
+    "text": "Best viewpoints in Tulamben",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Tulamben"
+    }
+  },
+  {
+    "text": "Find a tourist attraction in Singaraja",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Singaraja"
+    }
+  },
+  {
+    "text": "Top tourist attractions in Singaraja",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Singaraja"
+    }
+  },
+  {
+    "text": "Must-see attractions in Singaraja",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Singaraja"
+    }
+  },
+  {
+    "text": "Family-friendly attractions in Singaraja",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Singaraja"
+    }
+  },
+  {
+    "text": "Romantic attractions in Singaraja",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Singaraja"
+    }
+  },
+  {
+    "text": "Cultural attractions in Singaraja",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Singaraja"
+    }
+  },
+  {
+    "text": "Outdoor activities in Singaraja",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Singaraja"
+    }
+  },
+  {
+    "text": "Adventure activities in Singaraja",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Singaraja"
+    }
+  },
+  {
+    "text": "Hidden gems in Singaraja",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Singaraja"
+    }
+  },
+  {
+    "text": "Historical sites in Singaraja",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Singaraja"
+    }
+  },
+  {
+    "text": "Popular beaches in Singaraja",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Singaraja"
+    }
+  },
+  {
+    "text": "Best viewpoints in Singaraja",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Singaraja"
+    }
+  },
+  {
+    "text": "Find a tourist attraction in Lovina",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Lovina"
+    }
+  },
+  {
+    "text": "Top tourist attractions in Lovina",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Lovina"
+    }
+  },
+  {
+    "text": "Must-see attractions in Lovina",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Lovina"
+    }
+  },
+  {
+    "text": "Family-friendly attractions in Lovina",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Lovina"
+    }
+  },
+  {
+    "text": "Romantic attractions in Lovina",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Lovina"
+    }
+  },
+  {
+    "text": "Cultural attractions in Lovina",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Lovina"
+    }
+  },
+  {
+    "text": "Outdoor activities in Lovina",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Lovina"
+    }
+  },
+  {
+    "text": "Adventure activities in Lovina",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Lovina"
+    }
+  },
+  {
+    "text": "Hidden gems in Lovina",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Lovina"
+    }
+  },
+  {
+    "text": "Historical sites in Lovina",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Lovina"
+    }
+  },
+  {
+    "text": "Popular beaches in Lovina",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Lovina"
+    }
+  },
+  {
+    "text": "Best viewpoints in Lovina",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Lovina"
+    }
+  },
+  {
+    "text": "Find a tourist attraction in Pemuteran",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Pemuteran"
+    }
+  },
+  {
+    "text": "Top tourist attractions in Pemuteran",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Pemuteran"
+    }
+  },
+  {
+    "text": "Must-see attractions in Pemuteran",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Pemuteran"
+    }
+  },
+  {
+    "text": "Family-friendly attractions in Pemuteran",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Pemuteran"
+    }
+  },
+  {
+    "text": "Romantic attractions in Pemuteran",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Pemuteran"
+    }
+  },
+  {
+    "text": "Cultural attractions in Pemuteran",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Pemuteran"
+    }
+  },
+  {
+    "text": "Outdoor activities in Pemuteran",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Pemuteran"
+    }
+  },
+  {
+    "text": "Adventure activities in Pemuteran",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Pemuteran"
+    }
+  },
+  {
+    "text": "Hidden gems in Pemuteran",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Pemuteran"
+    }
+  },
+  {
+    "text": "Historical sites in Pemuteran",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Pemuteran"
+    }
+  },
+  {
+    "text": "Popular beaches in Pemuteran",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Pemuteran"
+    }
+  },
+  {
+    "text": "Best viewpoints in Pemuteran",
+    "intent": "FindTouristAttraction",
+    "entities": {
+      "LOCATION": "Pemuteran"
+    }
+  }
+]
